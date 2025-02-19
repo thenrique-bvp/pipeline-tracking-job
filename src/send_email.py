@@ -1,5 +1,7 @@
 from typing import Dict
 import requests
+import json
+from pathlib import Path
 
 def get_total_users_by_category(category: str) -> int:
     base_url = "https://brain.bessemer.io/twitter/users/categorized/paged"
@@ -19,10 +21,10 @@ def get_counts() -> Dict[str, int]:
         'startup': get_total_users_by_category('startup')
     }
 
-def send_email(email: str, html: str) -> None:
+def send_email(email: str, html: str, edition_number: int = 1) -> None:
     data = {
         "recipient": email,
-        "subject": "X-Tracker - New Companies Added",
+        "subject": f"XTracker - Founder and Startup Leads Edition #{edition_number}",
         "body": html,
     }
     
@@ -183,3 +185,27 @@ def generate_email_template(counts: Dict[str, int]) -> str:
     </div>
 </body>
 </html>'''
+
+def get_or_update_edition(increment: bool = False, reset: bool = False) -> int:
+    config_file = Path("config.json")
+    
+    # Criar arquivo se não existir
+    if not config_file.exists():
+        config = {"edition": 1}
+        config_file.write_text(json.dumps(config, indent=2))
+        return 1
+    
+    # Ler configuração atual
+    config = json.loads(config_file.read_text())
+    
+    # Resetar
+    if reset:
+        config["edition"] = 1
+    # Incrementar
+    elif increment:
+        config["edition"] += 1
+    
+    # Salvar alterações
+    config_file.write_text(json.dumps(config, indent=2))
+    
+    return config["edition"]
