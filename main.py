@@ -6,7 +6,7 @@ def main():
 
     email_html = generate_email_template(counts)
     edition_number = get_or_update_edition(increment=True)
-    recipient_email = "thenrique@bvp.com"  
+    recipient_email = "avieira@bvp.com"  
 
     send_email(recipient_email, email_html, edition_number=edition_number)
 
