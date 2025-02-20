@@ -18,7 +18,7 @@ def get_total_users_by_category(category: str) -> int:
 def get_counts() -> Dict[str, int]:
     return {
         'founder': get_total_users_by_category('founder'),
-        'startup': get_total_users_by_category('startup')
+        'company': get_total_users_by_category('company')
     }
 
 def send_email(email: str, html: str, edition_number: int = 1) -> None:
@@ -169,7 +169,7 @@ def generate_email_template(counts: Dict[str, int]) -> str:
                 </div>
                 <div class="stat-box box-2">
                     <div class="icon">📊</div>
-                    <h1>{counts["startup"]}</h1>
+                    <h1>{counts["company"]}</h1>
                     <p>New Startups</p>
                 </div>
             </div>
