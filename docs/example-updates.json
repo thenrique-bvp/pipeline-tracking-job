@@ -1,0 +1,3577 @@
+[
+	{
+		"url": "withglide.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "5ce52a21-66a1-4f83-ad5a-c40048fe1f19",
+						"newValue": "48fab5e9-8f83-474b-822f-67fc694d4fc7"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-08-14T00:00:00Z"], "newValue": ["2025-01-30T00:00:00Z"] },
+					{
+						"key": "Source_of_Introduction__Full_Name_",
+						"oldValue": ["Libbie Frost"],
+						"newValue": ["Sarah Du"]
+					},
+					{
+						"key": "Source_of_Introduction__Email_",
+						"oldValue": ["lfrost@bvp.com"],
+						"newValue": ["sdu@bvp.com"]
+					},
+					{ "key": "Number_of_Employees", "oldValue": [11], "newValue": [14] },
+					{ "key": "Employees__Current_", "oldValue": [8], "newValue": [14] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [15.12], "newValue": [100] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-08-14T00:00:00Z"],
+						"newValue": ["2025-01-30T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2023-09-07T00:00:00Z"],
+						"newValue": ["2025-01-27T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1823012476196749300, "newValue": 1826313872269639700 }
+				],
+				"specter": [
+					{
+						"key": "id",
+						"oldValue": "5ce52a21-66a1-4f83-ad5a-c40048fe1f19",
+						"newValue": "48fab5e9-8f83-474b-822f-67fc694d4fc7"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-08-14T00:00:00Z"], "newValue": ["2025-01-30T00:00:00Z"] },
+					{
+						"key": "Source_of_Introduction__Full_Name_",
+						"oldValue": ["Libbie Frost"],
+						"newValue": ["Sarah Du"]
+					},
+					{
+						"key": "Source_of_Introduction__Email_",
+						"oldValue": ["lfrost@bvp.com"],
+						"newValue": ["sdu@bvp.com"]
+					},
+					{ "key": "Number_of_Employees", "oldValue": [11], "newValue": [14] },
+					{ "key": "Employees__Current_", "oldValue": [8], "newValue": [14] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [15.12], "newValue": [100] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-08-14T00:00:00Z"],
+						"newValue": ["2025-01-30T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2023-09-07T00:00:00Z"],
+						"newValue": ["2025-01-27T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1823012476196749300, "newValue": 1826313872269639700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "littio.co",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "de837e95-b692-4d65-9274-9a12ea47e364",
+						"newValue": "b57272bd-c0aa-46ac-a755-eef878522deb"
+					},
+					{ "key": "Last_Email", "oldValue": ["2025-01-30T00:00:00Z"], "newValue": ["2025-02-04T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [28], "newValue": [27] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [30], "newValue": [32] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2025-01-30T00:00:00Z"],
+						"newValue": ["2025-02-04T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1823009924078108700, "newValue": 1826313875069337600 }
+				]
+			}
+		]
+	},
+	{
+		"url": "alinea-invest.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "b93d8af2-d569-4aa5-8cac-4f6dcef08390",
+						"newValue": "8a28b937-55a9-4837-ae3e-ea2f4585615a"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-05-15T00:00:00Z"], "newValue": ["2025-02-03T00:00:00Z"] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [17], "newValue": [14] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-05-15T00:00:00Z"],
+						"newValue": ["2025-02-03T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2023-10-11T00:00:00Z"],
+						"newValue": ["2025-01-28T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257433430720500, "newValue": 1826313874094162000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "fridayharbor.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "70f1d2b4-a31b-4b5f-98f4-fc415e6beda7",
+						"newValue": "ae5afa57-1add-4b9f-9043-fb3ff8906ba8"
+					},
+					{ "key": "Employees__Current_", "oldValue": [8], "newValue": [6] },
+					{ "key": "_version_", "oldValue": 1823009924919066600, "newValue": 1826313874487378000 },
+					{ "key": "Employees__12_Months_Ago", "newValue": [1] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [700] }
+				]
+			}
+		]
+	},
+	{
+		"url": "myquartz.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["myquartz"], "newValue": ["MyQuartz"] },
+					{ "key": "Website", "newValue": ["myquartz.ai"] },
+					{ "key": "id", "newValue": "d3743fe8-1131-4c20-b611-86899eea7e33" },
+					{ "key": "Organization_Id", "newValue": [300823740] },
+					{ "key": "_version_", "newValue": 1826314157674201000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "onechronos.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "1e9f5cae-efe9-4673-9138-32e0394143a9",
+						"newValue": "269f691c-3bb3-48ef-ae6f-7200b1a3c84b"
+					},
+					{ "key": "Last_Email", "oldValue": ["2022-02-09T00:00:00Z"], "newValue": ["2025-01-13T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [24], "newValue": [36] },
+					{ "key": "Total_Funding_Amount__USD_", "oldValue": [40000000], "newValue": [32000000] },
+					{
+						"key": "Last_Funding_Date",
+						"oldValue": ["2023-10-02T00:00:00Z"],
+						"newValue": ["2024-11-01T00:00:00Z"]
+					},
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [40000000], "newValue": [32000000] },
+					{ "key": "Employees__Current_", "oldValue": [22], "newValue": [32] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [14], "newValue": [18] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [57.14], "newValue": [100] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2022-02-09T00:00:00Z"],
+						"newValue": ["2025-01-13T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2019-02-05T00:00:00Z"],
+						"newValue": ["2025-01-13T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1823012433018486800, "newValue": 1826313875800195000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "get-jetty.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "9b68d2ef-c8cb-4279-95aa-4d1544480e70",
+						"newValue": "ef8bf5a6-a30b-460f-a5cb-6ed32ebf0409"
+					},
+					{ "key": "_version_", "oldValue": 1823072358995329000, "newValue": 1826313887248547800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "tryfoundation.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "ebff2f7d-af29-4bd3-9192-c2950fd6215d",
+						"newValue": "2adb1a9a-3ee4-4365-ab62-d034520211c7"
+					},
+					{ "key": "_version_", "oldValue": 1814258387182944300, "newValue": 1826313875815923700 },
+					{ "key": "Last_Email", "newValue": ["2025-02-02T00:00:00Z"] },
+					{ "key": "Last_Contact", "newValue": ["2025-02-02T00:00:00Z"] },
+					{ "key": "First_Meeting", "newValue": ["2023-03-06T00:00:00Z"] },
+					{ "key": "First_Email", "newValue": ["2022-08-23T00:00:00Z"] },
+					{ "key": "Last_Meeting", "newValue": ["2025-01-30T00:00:00Z"] }
+				]
+			}
+		]
+	},
+	{
+		"url": "finchlegal.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "e0cdf93d-adc5-4027-9243-4300e2efbb0d",
+						"newValue": "7f95b01b-fa52-483e-87e6-96104399bc2a"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-26T00:00:00Z"], "newValue": ["2024-12-16T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-26T00:00:00Z"],
+						"newValue": ["2024-12-16T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257308022079500, "newValue": 1826313900322193400 },
+					{ "key": "Description", "newValue": ["Next generation consumer law for practices and clients"] },
+					{ "key": "Location__City_", "newValue": ["New York"] },
+					{ "key": "Location__State_", "newValue": ["New York"] },
+					{ "key": "Location__Country_", "newValue": ["United States"] },
+					{ "key": "Number_of_Employees", "newValue": [3] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/finchlegal"] },
+					{ "key": "Employees__Current_", "newValue": [3] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [1] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [200] }
+				]
+			}
+		]
+	},
+	{
+		"url": "standinsurance.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["standinsurance"], "newValue": ["Stand Insurance"] },
+					{ "key": "Website", "newValue": ["standinsurance.com"] },
+					{ "key": "Description", "newValue": ["Insuring the world's climate-impacted properties."] },
+					{ "key": "Industry", "newValue": ["Insurtech; Fintech; Insurance; Real Estate"] },
+					{ "key": "id", "newValue": "4aa9891c-ec4d-43cc-ab7c-bc8b1629e440" },
+					{ "key": "Organization_Id", "newValue": [300251303] },
+					{ "key": "Location__City_", "newValue": ["San Francisco"] },
+					{ "key": "Location__State_", "newValue": ["California"] },
+					{ "key": "Location__Country_", "newValue": ["United States"] },
+					{ "key": "Year_Founded", "newValue": [2024] },
+					{ "key": "Number_of_Employees", "newValue": [8] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/getstand"] },
+					{ "key": "Total_Funding_Amount__USD_", "newValue": [30000000] },
+					{ "key": "Last_Funding_Date", "newValue": ["2024-12-19T00:00:00Z"] },
+					{ "key": "Last_Funding_Amount__USD_", "newValue": [30000000] },
+					{ "key": "Employees__Current_", "newValue": [11] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [4] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [100] },
+					{ "key": "_version_", "newValue": 1826314157535789000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "atomicinsights.io",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "First_Email",
+						"oldValue": ["2024-11-16T09:14:37.000-08:00"],
+						"newValue": ["2024-11-16T00:00:00Z"]
+					},
+					{ "key": "Last_email", "oldValue": ["2025-01-28T05:32:36.000-08:00"] },
+					{ "key": "Website", "newValue": ["atomicinsights.io"] },
+					{
+						"key": "Description",
+						"newValue": [
+							"Atomic Insights is a next-generation payments, treasury management, and reporting tool for Family Offices and Registered Investment Advisors (RIAs). At Atomic Insights we are laser focused on building software tools that empower investment advisors to shift their time and attention away from transactional tasks so they can focus on helping their clients make great financial decisions."
+						]
+					},
+					{ "key": "Industry", "newValue": ["Financial Services"] },
+					{ "key": "id", "newValue": "e78b5767-bb6c-4fba-93b9-212f714d6917" },
+					{ "key": "Organization_Id", "newValue": [289742059] },
+					{ "key": "Last_Email", "newValue": ["2025-02-18T00:00:00Z"] },
+					{ "key": "Source_of_Introduction__Full_Name_", "newValue": ["Sam Warburg"] },
+					{ "key": "Source_of_Introduction__Email_", "newValue": ["swarburg@gmail.com"] },
+					{ "key": "Number_of_Employees", "newValue": [6] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/atomic-insights"] },
+					{ "key": "Employees__Current_", "newValue": [6] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [3] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [100] },
+					{ "key": "Last_Contact", "newValue": ["2025-02-18T00:00:00Z"] },
+					{ "key": "First_Meeting", "newValue": ["2024-12-03T00:00:00Z"] },
+					{ "key": "Last_Meeting", "newValue": ["2024-12-03T00:00:00Z"] },
+					{ "key": "_version_", "newValue": 1826313887250645000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "cleareye.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "dedb6276-c7e2-4f49-951e-09282169d56c",
+						"newValue": "fb9a127e-a320-4052-b128-d6fbb3cc890f"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-18T00:00:00Z"], "newValue": ["2025-02-06T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [104], "newValue": [125] },
+					{ "key": "Employees__Current_", "oldValue": [103], "newValue": [120] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [86], "newValue": [101] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [19.9], "newValue": [23.76] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-18T00:00:00Z"],
+						"newValue": ["2025-02-06T00:00:00Z"]
+					},
+					{
+						"key": "First_Meeting",
+						"oldValue": ["2024-11-01T00:00:00Z"],
+						"newValue": ["2024-11-19T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1823012574030987300, "newValue": 1826313886929780700 },
+					{ "key": "Last_Meeting", "newValue": ["2024-11-19T00:00:00Z"] }
+				]
+			}
+		]
+	},
+	{
+		"url": "oversee-ai.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "e0c21e6f-a97d-4405-937d-53b5fb9916ca",
+						"newValue": "a25fb1be-af79-4e56-8bb6-07cc11a58204"
+					},
+					{ "key": "_version_", "oldValue": 1814258385201135600, "newValue": 1826313889760936000 },
+					{
+						"key": "Description",
+						"newValue": [
+							"We enable insurers to deliver measurable ROI by assembling the best technology and most innovative AI techniques into a single SaaS platform. With control and observability, our customers can build trust in AI and quickly embrace its benefits."
+						]
+					},
+					{
+						"key": "Industry",
+						"newValue": ["Enterprise Software; Artificial Intelligence; Insurance; Saas"]
+					},
+					{ "key": "Last_Email", "newValue": ["2024-12-13T00:00:00Z"] },
+					{ "key": "Source_of_Introduction__Full_Name_", "newValue": ["Eugene Van Biert"] },
+					{ "key": "Source_of_Introduction__Email_", "newValue": ["eugene.vanbiert@oversee-ai.com"] },
+					{ "key": "Location__City_", "newValue": ["Boston"] },
+					{ "key": "Location__State_", "newValue": ["Massachusetts"] },
+					{ "key": "Location__Country_", "newValue": ["United States"] },
+					{ "key": "Year_Founded", "newValue": [2024] },
+					{ "key": "Number_of_Employees", "newValue": [10] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/overseeai"] },
+					{ "key": "Employees__Current_", "newValue": [8] },
+					{ "key": "Last_Contact", "newValue": ["2024-12-13T00:00:00Z"] },
+					{ "key": "First_Meeting", "newValue": ["2024-12-04T00:00:00Z"] },
+					{ "key": "First_Email", "newValue": ["2024-11-20T00:00:00Z"] },
+					{ "key": "Last_Meeting", "newValue": ["2024-12-12T00:00:00Z"] }
+				]
+			}
+		]
+	},
+	{
+		"url": "kartera.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"kartera is a branded open banking payment and customer rewards solution proven to increase the ‘average over value’ (aov) and ‘repeat purchase ratio’ (rpr). kartera's payment system and rewards engine is designed to complement existing payment infrastructures, reducing reliance on them. by facilitating direct, fast, easy, and secure payments from customers' bank accounts, kartera helps lower payment processing fees, minimize the duration funds are held, and reduce fraudulent activity to nearly zero, thereby enhancing financial efficiency for businesses. at kartera, we believe payments can be fair and equitable for all parties involved."
+						],
+						"newValue": [
+							"Kartera is a branded open banking payment and customer rewards solution proven to increase the ‘Average Over Value’ (AOV) and ‘Repeat Purchase Ratio’ (RPR). Kartera's payment system and rewards engine is designed to complement existing payment infrastructures, reducing reliance on them. By facilitating direct, fast, easy, and secure payments from customers' bank accounts, Kartera helps lower payment processing fees, minimize the duration funds are held, and reduce fraudulent activity to nearly zero, thereby enhancing financial efficiency for businesses. At Kartera, we believe payments can be fair and equitable for all parties involved."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "32290d77-18a1-4563-99f6-478eee56e6f6",
+						"newValue": "c5a61d7b-4949-44e5-bcad-ddb4d25fd70b"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-10T00:00:00Z"], "newValue": ["2024-12-13T00:00:00Z"] },
+					{ "key": "Employees__Current_", "oldValue": [8], "newValue": [9] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [10], "newValue": [8] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-10T00:00:00Z"],
+						"newValue": ["2024-12-13T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-10-08T00:00:00Z"],
+						"newValue": ["2024-11-20T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257350407618600, "newValue": 1826313886935023600 },
+					{ "key": "Employees__Growth_YoY____", "newValue": [0] }
+				]
+			}
+		]
+	},
+	{
+		"url": "checker.finance",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "d111f063-94bd-41cb-8063-1a0d47b1acca",
+						"newValue": "0d064bfc-e23b-400e-bd47-f6a6fe371f97"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [6], "newValue": [10] },
+					{ "key": "_version_", "oldValue": 1823009922535653400, "newValue": 1826313900134498300 }
+				]
+			}
+		]
+	},
+	{
+		"url": "occam.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "c10732ea-3d68-4ca8-a424-25a5d738d669",
+						"newValue": "d634156d-b6dc-4516-a771-c6a3f86789a8"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-18T00:00:00Z"], "newValue": ["2024-11-21T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [1], "newValue": [4] },
+					{ "key": "Employees__Current_", "oldValue": [1], "newValue": [4] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-18T00:00:00Z"],
+						"newValue": ["2024-11-21T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257335290298400, "newValue": 1826313926244040700 },
+					{
+						"key": "Description",
+						"newValue": [
+							"Occam is your newfound enterprise automation architect and operator in one, purpose-built for automating data-heavy financial tasks. Whether you need to create your own automations or build automation products, Occam is equipped to work with you to craft workflows, to independently generate ones for you to review, to run them on your behalf, and to dynamically adjust them as automation outcomes change. With Occam you can focus on defining automation objectives, constraining automation execution, and consuming results, while Occam takes care of all the rest. Check out www.occam.ai/useCases for more details about our banking and financial management automation suites."
+						]
+					},
+					{ "key": "Industry", "newValue": ["Enterprise Software; Fintech"] },
+					{ "key": "Location__City_", "newValue": ["New York"] },
+					{ "key": "Location__State_", "newValue": ["New York"] },
+					{ "key": "Location__Country_", "newValue": ["United States"] },
+					{ "key": "Year_Founded", "newValue": [2024] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [1] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [300] },
+					{ "key": "Last_Meeting", "newValue": ["2024-11-20T00:00:00Z"] }
+				]
+			}
+		]
+	},
+	{
+		"url": "seon.io",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"SEON https://seon.io At SEON, we strive to help online businesses reduce the costs, time, and challenges faced due to fraud. Whether you are a global financial leader or a small eCommerce, our solution simplifies fraud management so you can focus on what matters: growing and scaling your company. Our talented team of consultants and developers is there to create a safer environment for online businesses. Cybersecurity is our passion. Anticipating risk vectors is our expertise. SEON is how we create a unified solution that combines ease of use, flexibility, and the ability to tackle complex problems in a simple way for your business."
+						],
+						"newValue": [
+							"Keep up-to-date with the latest threats and cutting-edge solutions to ensure sustainable growth and a secure future. Stay ahead of the curve with actionable strategies that build resilience and protect your business."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "39a14adf-2186-408b-ac68-aedc4886558f",
+						"newValue": "a038b8ff-bf13-4ff4-8ae2-b8c58fbf0247"
+					},
+					{ "key": "Last_Email", "oldValue": ["2022-10-05T00:00:00Z"], "newValue": ["2024-11-18T00:00:00Z"] },
+					{
+						"key": "Source_of_Introduction__Full_Name_",
+						"oldValue": ["Craig Tarnopol"],
+						"newValue": ["Miia Laukkarinen"]
+					},
+					{
+						"key": "Source_of_Introduction__Email_",
+						"oldValue": ["ctarnopol@bvp.com"],
+						"newValue": ["miial@bvp.com"]
+					},
+					{ "key": "Number_of_Employees", "oldValue": [271], "newValue": [295] },
+					{ "key": "Employees__Current_", "oldValue": [274], "newValue": [288] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [246], "newValue": [263] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [11.38], "newValue": [12.17] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2022-10-11T00:00:00Z"],
+						"newValue": ["2024-11-18T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2022-10-11T00:00:00Z"],
+						"newValue": ["2024-11-15T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257647913795600, "newValue": 1826313926685491200 }
+				]
+			}
+		]
+	},
+	{
+		"url": "joinfizz.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"The student debit card that builds credit and earns you amazing cash back around campus! No hidden fees, no credit check & no security deposit. Totally Free! By the way - we're hiring: https://jobs.polymer.co/fizz/"
+						],
+						"newValue": [
+							"Fizz is the #1 money app for students. Whether you want to build credit, manage your money or have no idea where to start, Fizz is there to help you every step of the way. Download the app for free to check your credit score, get personalized spending insights and take fun bite-sized courses. Become a Fizz Member to take your finances to the next level with a debit card that builds credit. With no interest and daily autopay that prevents you from overspending, the Fizz Card is the ultimate financial hack. Students at over 300 universities including Michigan State, University of Florida, UCLA and Harvard chose Fizz for safe credit building with daily autopay, smart spend limits, and local campus deals. Fizz is backed by Kleiner Perkins, SV Angel, Y Combinator, and the founders of eight Unicorns."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "9bf93c2d-4367-4932-a35f-46dab6d29e62",
+						"newValue": "8417ac21-d025-46de-a846-bb6fb2cacf3f"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [22], "newValue": [19] },
+					{ "key": "Employees__Current_", "oldValue": [18], "newValue": [22] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [12.5], "newValue": [18.75] },
+					{
+						"key": "First_Meeting",
+						"oldValue": ["2021-08-27T00:00:00Z"],
+						"newValue": ["2021-05-11T00:00:00Z"]
+					},
+					{
+						"key": "First_Email",
+						"oldValue": ["2021-05-13T00:00:00Z"],
+						"newValue": ["2020-07-30T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257350242992000, "newValue": 1826313927724630000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "arrowhq.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Arrow is a pioneering healthcare technology company committed to delivering innovative solutions that enhance operational efficiency and improve patient outcomes. With a focus on payment integrity, denial management, and user-centric design, Arrow is dedicated to transforming the healthcare landscape."
+						],
+						"newValue": [
+							"Arrow is on a mission to make healthcare payments frictionless. We bring speed, accuracy, and transparency to healthcare payments so patients have visibility into what care costs, providers are paid faster without manual administrative work, and health plans increase efficiency and reduce fraud, waste, and abuse."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "696f9d64-e1c0-4246-9638-d875031c7884",
+						"newValue": "1cf5d479-3a18-491e-ad7f-2aa8dfb57439"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-08-05T00:00:00Z"], "newValue": ["2024-11-12T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-08-05T00:00:00Z"],
+						"newValue": ["2024-11-12T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257401130385400, "newValue": 1826313926138134500 },
+					{ "key": "Employees__Current_", "newValue": [14] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [9] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [55.56] }
+				]
+			}
+		]
+	},
+	{
+		"url": "onevest.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"We’re on a mission to power the world’s wealth with the OneVest Wealth-as-a-Service platform. It is a complete wealth management ecosystem that offers full front, back and middle-office solutions that work together beautifully. It was purpose-built for fast implementation and integration, dynamic client and advisor experiences, and enterprise-wide teamwork to deliver extraordinary wealth management programs."
+						],
+						"newValue": [
+							"OneVest is a financial technology company on a mission to power the world’s wealth. It offers an end-to-end wealth management platform, from client onboarding, to portfolio management, to analytics and beyond. OneVest’s software was built to be modular, allowing financial institutions to fill gaps in their process depending on their needs."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "3c95151b-3eeb-46a0-ab5a-f74f36da54d2",
+						"newValue": "3048d619-de4e-4509-8045-c4efb08c49ae"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-23T00:00:00Z"], "newValue": ["2024-12-13T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [64], "newValue": [65] },
+					{ "key": "Total_Funding_Amount__USD_", "oldValue": [22923160], "newValue": [42923160] },
+					{
+						"key": "Last_Funding_Date",
+						"oldValue": ["2023-06-13T00:00:00Z"],
+						"newValue": ["2025-01-29T00:00:00Z"]
+					},
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [17000000], "newValue": [20000000] },
+					{ "key": "Employees__Current_", "oldValue": [63], "newValue": [70] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [39], "newValue": [52] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [61.54], "newValue": [25] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-23T00:00:00Z"],
+						"newValue": ["2024-12-13T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2022-11-16T00:00:00Z"],
+						"newValue": ["2024-12-11T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257321950314500, "newValue": 1826313887272665000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "livble.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "First_Email",
+						"oldValue": ["2024-11-04T22:27:46.000-08:00"],
+						"newValue": ["2024-11-05T00:00:00Z"]
+					},
+					{ "key": "Last_email", "oldValue": ["2024-11-26T08:23:42.000-08:00"] },
+					{ "key": "Website", "newValue": ["livble.com"] },
+					{
+						"key": "Description",
+						"newValue": [
+							"Livble partners with Property Management Software & Resident Portals to enable tenants to split their rent into smaller, more manageable installments over the month to align with their income, avoid fees, and build meaningful credit in the process."
+						]
+					},
+					{ "key": "Industry", "newValue": ["Fintech; Software; Financial Services"] },
+					{ "key": "id", "newValue": "620baa48-39d7-4063-8109-5dd2cdf2931b" },
+					{ "key": "Organization_Id", "newValue": [295073427] },
+					{ "key": "Last_Email", "newValue": ["2024-11-26T00:00:00Z"] },
+					{ "key": "Source_of_Introduction__Full_Name_", "newValue": ["Raymond Rouf"] },
+					{ "key": "Source_of_Introduction__Email_", "newValue": ["raymond@pave.dev"] },
+					{ "key": "Location__City_", "newValue": ["New York"] },
+					{ "key": "Location__State_", "newValue": ["New York"] },
+					{ "key": "Location__Country_", "newValue": ["United States"] },
+					{ "key": "Year_Founded", "newValue": [2022] },
+					{ "key": "Number_of_Employees", "newValue": [22] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/lvble"] },
+					{ "key": "Total_Funding_Amount__USD_", "newValue": [172125] },
+					{ "key": "Last_Funding_Amount__USD_", "newValue": [172125] },
+					{ "key": "Employees__Current_", "newValue": [21] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [24] },
+					{ "key": "Last_Contact", "newValue": ["2024-11-26T00:00:00Z"] },
+					{ "key": "First_Meeting", "newValue": ["2024-11-07T00:00:00Z"] },
+					{ "key": "Last_Meeting", "newValue": ["2024-11-22T00:00:00Z"] },
+					{ "key": "_version_", "newValue": 1826313925723947000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "flowspecialty.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Flow Specialty (Previously Capitola)"], "newValue": ["Flow"] },
+					{
+						"key": "Description",
+						"oldValue": [
+							"Flow is the Next-Gen Specialty Brokerage for commercial insurance. We\xa0blend human expertise with cutting-edge technology to deliver access to top\xa0markets."
+						],
+						"newValue": [
+							"At Flow, AI isn't just a feature—it's the core of everything we do. We are transforming the wholesale insurance industry by building a futuristic insurance brokerage where AI powers every aspect of the experience. With advanced AI features already live in production and actively used by our brokers, we are pioneering Wholesale 3.0, equipping brokers with cutting-edge tools to provide unparalleled service. We are creating an ecosystem of AI agents designed to streamline processes and enhance decision-making in the insurance landscape. The industry relies heavily on text—emails, files, and documents—making Generative AI a perfect fit for solving its challenges. Flow leverages AI to deliver meaningful insights, deep analysis, and white-glove support for every transaction, no matter the deal size. By combining human expertise with Platformless AI, we are bringing back the art of wholesale insurance while eliminating the need for outdated portals. In the past seven months, we’ve grown 250% month-over-month(!) and are forecasting even more massive growth. We’re a Series A startup with over $20M raised from top investors like Lightspeed, MunichRe Ventures, and industry angels."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "44114d89-0187-4c5d-8dd1-97179bf4e242",
+						"newValue": "1ceee100-2d24-4f16-9c36-239fd4b9d871"
+					},
+					{ "key": "Organization_Id", "oldValue": [296850224], "newValue": [300576340] },
+					{ "key": "Last_Email", "oldValue": ["2024-10-28T00:00:00Z"], "newValue": ["2025-01-25T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [30], "newValue": [29] },
+					{
+						"key": "LinkedIn_URL",
+						"oldValue": ["https://linkedin.com/company/capitola-ins"],
+						"newValue": ["https://linkedin.com/company/insurtech-stealth-startup"]
+					},
+					{ "key": "Employees__12_Months_Ago", "oldValue": [23], "newValue": [25] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [26.09], "newValue": [16] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2025-01-25T00:00:00Z"]
+					},
+					{
+						"key": "First_Email",
+						"oldValue": ["2022-03-09T00:00:00Z"],
+						"newValue": ["2021-04-25T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2025-01-17T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257293291683800, "newValue": 1826313874213699600 },
+					{ "key": "Source_of_Introduction__Full_Name_", "newValue": ["Naor Rosenberg"] },
+					{ "key": "Source_of_Introduction__Email_", "newValue": ["naor@flowspecialty.com"] }
+				]
+			}
+		]
+	},
+	{
+		"url": "getmbi.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "80a570e4-8e93-4ffc-884f-1eda3a7483a1",
+						"newValue": "e3f955e3-1af2-47d5-90a7-69ac2dab524e"
+					},
+					{ "key": "_version_", "oldValue": 1814258387174555600, "newValue": 1826314157080707000 },
+					{
+						"key": "Description",
+						"newValue": [
+							"MBI helps Financial Institutions unlock the power of their data to drive growth, boost cross-sell, and win more customers. MBI offers modular banking infrastructure, empowering your institution to activate your existing data like never before. You provide the data, we supply the tools. Together, we build towards the future. MBI began in 2018 as HMBradley, a consumer fintech specializing in elevated digital banking services designed for a modern customer. HMBradley offered a customer-centric platform rewarding consumers for their habits not just the money in their account, offering competitive annual-yield percentage, and best-in-class customer servicing program; raising over $70M in capital along the way. Too nimble to settle for expensive legacy vendors and products stagnated by an aging infrastructure, the team at HMBradley built its own backend infrastructure with an eye towards versatility and modularity to accommodate the increasing customer demand. Talking with Financial Institutions helped us realize we had cracked a code: Our modular banking infrastructure connected disparate data sources, allowing us to build and launch products, and make changes to our system, in real time, without the need to replace clunky and expensive legacy cores. At MBI, we are committed to making your financial institution's data work for you. Our experience stems from creating banking architecture from the ground up, guided by a customer-centric, first-principles approach. You'll benefit from years of experiments and innovation. Together, we can shape the future of banking."
+						]
+					},
+					{ "key": "Location__City_", "newValue": ["Santa Monica"] },
+					{ "key": "Location__State_", "newValue": ["California"] },
+					{ "key": "Location__Country_", "newValue": ["United States"] },
+					{ "key": "Year_Founded", "newValue": [2018] },
+					{ "key": "Number_of_Employees", "newValue": [11] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/getmbi2"] },
+					{ "key": "Employees__Current_", "newValue": [11] }
+				]
+			}
+		]
+	},
+	{
+		"url": "rogo.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Industry",
+						"oldValue": ["Enterprise Software; Artificial Intelligence; Fintech"],
+						"newValue": ["Artificial Intelligence; Fintech"]
+					},
+					{
+						"key": "id",
+						"oldValue": "6ab6ef17-22c5-4033-9f4c-336f91f4927e",
+						"newValue": "a1e19c11-7c2c-40e7-838a-6f6ed4100315"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-26T00:00:00Z"], "newValue": ["2025-02-03T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [28], "newValue": [30] },
+					{ "key": "Employees__Current_", "oldValue": [28], "newValue": [31] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [10], "newValue": [18] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [130], "newValue": [66.67] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-26T00:00:00Z"],
+						"newValue": ["2025-02-06T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-05-08T00:00:00Z"],
+						"newValue": ["2025-02-06T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257308083945500, "newValue": 1826313873452433400 }
+				]
+			}
+		]
+	},
+	{
+		"url": "locusive.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Hey there, welcome to Locusive. If you've ever navigated the maze of a SaaS tool and wished for a quicker way to find answers, or if you're a CSM feeling the weight of endless queries, we see you. We've been there too. We've seen time and again how important it is to service customers quickly, effectively, and accurately. Most businesses struggle to get customers everything they want and need when they ask for it. CSMs spin their wheels with data pulls, engineers that should be working on product have to come up with quick queries, and there's no time to service the long-tail of smaller customers that are all trying to gain value from your business or product. That's where the idea for Locusive was born. Our goal is to create an AI assistant that feels like a guide or concierge for your business. For users, it's about streamlining those moments of \"how do I...?\" and turning them into \"oh, that's how!\". And for the CSMs, it's about filtering out the noise, letting you focus on the deeper, more strategic aspects of your role. We're on a journey to blend technology with a bit of that human touch, making the digital space feel a tad more navigable and friendly. Interested in the evolving landscape of customer success and AI's role in it? Check us out at locusive.com."
+						],
+						"newValue": [
+							"Hi, welcome to Locusive! We're building an AI copilot to help customer success teams spend less time on pulling and analyzing data. Our system connects into your existing data sources and answers your questions with the information in that data. We've helped customer success teams: - Spend less time waiting for their data or tech teams to get them a query - Pull more (and more relevant) information from their databases and product dashboards than they could themselves - Find hidden pieces of data that help them better prep for their QBRs and EBRs. If you're tired of wasting time with data retrieval and analysis, or you just want to learn more about how AI can help you find the information you need: Send us a DM. We're always happy to answer questions."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "84d71281-05fb-4fa3-88ca-83663aaf56fa",
+						"newValue": "a2fd7ba6-4f71-4ff0-990d-e14d802f067b"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-23T00:00:00Z"], "newValue": ["2024-11-01T00:00:00Z"] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [3], "newValue": [0] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-23T00:00:00Z"],
+						"newValue": ["2024-11-01T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257320412053500, "newValue": 1826313924632379400 }
+				]
+			}
+		]
+	},
+	{
+		"url": "netxd.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"NETXD Inc. provides a transaction banking platform focused on delivering exceptional value to Banks and Fintechs."
+						],
+						"newValue": [
+							"NetXD provides a programmable enterprise operating system enabling organizations to transform their back office and middle office. For banks, NetXD offers a sidecar core that supports all major types of consumer and business bank accounts, embedded banking and paired with a payment hub with support for all major payment rails"
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "da2f0a42-99a5-4411-a5b6-0665ed7f846d",
+						"newValue": "158189fd-f508-4d09-ac80-b9d9e5f0f78c"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [92], "newValue": [93] },
+					{ "key": "Employees__Current_", "oldValue": [89], "newValue": [95] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [64], "newValue": [97] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [39.06] },
+					{ "key": "_version_", "oldValue": 1814257319420100600, "newValue": 1826313924206657500 }
+				]
+			}
+		]
+	},
+	{
+		"url": "theleopard.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Leopard"], "newValue": ["TheLeopard"] },
+					{
+						"key": "id",
+						"oldValue": "69d04a97-3a8c-40fe-9877-0c7d16c16756",
+						"newValue": "518ae10a-6434-46c2-8aca-b66e1b286bf9"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-08T00:00:00Z"], "newValue": ["2025-01-15T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-08T00:00:00Z"],
+						"newValue": ["2025-01-15T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257352813052000, "newValue": 1826313900327436300 },
+					{
+						"key": "Description",
+						"newValue": [
+							"Leopard is an early stage insurance technology startup looking to revolutionize the life insurance and annuities markets. We’ve developed technology that makes it easy for insurance brokers and financial advisors to find best-fit coverage for their clients on an ongoing basis, but that’s just the start. Our mission is to build a data business that fundamentally changes the way life and annuities products are sold. Founded in 2023, Leopard is backed by The D.E. Shaw Group and headquartered in New York."
+						]
+					},
+					{ "key": "Year_Founded", "newValue": [2023] },
+					{ "key": "Number_of_Employees", "newValue": [3] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/theleopard"] },
+					{ "key": "Employees__Current_", "newValue": [3] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [2] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [50] }
+				]
+			}
+		]
+	},
+	{
+		"url": "withgrove.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Grove is designed for tier-1 founders to turbocharge their liquid capital, grow their business, and bring others with them."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "eefd1aa6-8bc0-488c-b7a3-7d5b444e9e8d",
+						"newValue": "1fc8cb2b-187f-46a3-beec-9f4428132113"
+					},
+					{ "key": "Year_Founded", "oldValue": [2023] },
+					{ "key": "Number_of_Employees", "oldValue": [3] },
+					{ "key": "LinkedIn_URL", "oldValue": ["https://linkedin.com/company/webformvc"] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [2] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [50] },
+					{ "key": "_version_", "oldValue": 1814257344302809000, "newValue": 1826313925743870000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "crosswise.io",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "70196a8c-1036-41ce-8ce0-21ffc8d1737c",
+						"newValue": "b0f492ad-955e-4cbc-921f-5d13f2c72c03"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-27T00:00:00Z"], "newValue": ["2024-11-04T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-27T00:00:00Z"],
+						"newValue": ["2024-11-04T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257307750498300, "newValue": 1826313927606141000 },
+					{ "key": "Location__City_", "newValue": ["San Francisco"] },
+					{ "key": "Location__State_", "newValue": ["California"] },
+					{ "key": "Location__Country_", "newValue": ["United States"] },
+					{ "key": "Year_Founded", "newValue": [2024] },
+					{ "key": "Number_of_Employees", "newValue": [6] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/crosswise-io"] },
+					{ "key": "Employees__Current_", "newValue": [6] }
+				]
+			}
+		]
+	},
+	{
+		"url": "golendica.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "8f74e4a9-5ccb-4b6d-8abb-a7fc1b882295",
+						"newValue": "917cdd5e-9aee-41f9-8085-bba69f2dc3ae"
+					},
+					{ "key": "Employees__Current_", "oldValue": [13], "newValue": [11] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [11], "newValue": [14] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [18.18] },
+					{ "key": "_version_", "oldValue": 1814257326777958400, "newValue": 1826313916542615600 }
+				]
+			}
+		]
+	},
+	{
+		"url": "usefocal.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "0cde4c31-a7db-4ec8-88c5-d6a7c4cacbd1",
+						"newValue": "214d9d8a-c0ee-4504-9414-73dc57b36bb5"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-25T00:00:00Z"], "newValue": ["2024-11-26T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-25T00:00:00Z"],
+						"newValue": ["2024-11-26T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257362243944400, "newValue": 1826313926332121000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "ogment.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "5dd93190-e4a7-4f4d-b154-e64941810d3c",
+						"newValue": "c568aaee-0208-4426-8f77-555474051d8d"
+					},
+					{ "key": "_version_", "oldValue": 1814257364719632400, "newValue": 1826313926003916800 },
+					{
+						"key": "Description",
+						"newValue": [
+							"Meet Ogment: Your AI-Powered HR Dream Team. Imagine an HR department that works 24/7, never misses a task, and frees you to focus on what truly matters - building exceptional teams and driving the company forward. At Ogment, we’ve built AI employees - digital coworkers specialised in HR. They’re here to take the repetitive, tedious work off your plate so you can unlock your full potential, achieve ambitious targets, and supercharge your productivity. Every day, HR professionals spend hours on knowledge work: Sorting résumés. Scheduling interviews. Managing compliance, Following up with candidates. It’s necessary—but it doesn’t have to be you doing it. Our AI-powered employees handle 80% of the manual work for you—accurately, efficiently, and seamlessly. And the best part: Ogment integrates with the tools you already use—your ATS, HRIS, emails, calendars. No overhauls. No disruptions. Just results. And here’s what you get in return: Time to focus on what really matters: strategy, innovation, and meaningful human connections. Free up resources to invest in candidate experience, employer branding, and long-term success. This isn’t just a new tool—it’s a new way to work. AI leads the way, pulling you in only when human judgment is needed. It’s time to delegate the tedious and redefine how work gets done. Unparalleled productivity - your team, supercharged. Welcome to Ogment. Welcome to the future of HR."
+						]
+					},
+					{ "key": "Year_Founded", "newValue": [2024] },
+					{ "key": "Number_of_Employees", "newValue": [7] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/ogment-ai"] },
+					{ "key": "Employees__Current_", "newValue": [8] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [1] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [600] }
+				]
+			}
+		]
+	},
+	{
+		"url": "getlilo.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"lilo is a back of the house (procurement and finance) team in a box. our ai automates and executes on repetitive workflows (e.g., forecast, rfping, optimizing, paying and gl coding)"
+						],
+						"newValue": [
+							"Lilo is a back of the house (procurement and finance) team in a box. Our AI automates and executes on repetitive workflows (e.g., forecast, RFPing, optimizing, paying and GL coding)"
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "f83a74fe-b8a9-483a-b528-48841a114343",
+						"newValue": "6a53b075-fb7e-456c-8396-ac03ae54c40d"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [17], "newValue": [19] },
+					{
+						"key": "LinkedIn_URL",
+						"oldValue": ["https://linkedin.com/company/getliloai"],
+						"newValue": ["https://linkedin.com/company/liloshop-io"]
+					},
+					{ "key": "_version_", "oldValue": 1814257350386647000, "newValue": 1826313927588315100 },
+					{ "key": "Employees__Current_", "newValue": [20] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [12] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [58.33] }
+				]
+			}
+		]
+	},
+	{
+		"url": "prosper.co.uk",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"\"given how new prosper is to the market, the app and service is amazing. very easy to use, easy to understand and the support is there if you need it (they quickly answered questions i had about my isa transfer). the big selling point is not being ripped off in fees. i'd noticed how much i lost to fees each year on another app. now i'm keeping it. and it's compounding. winning.\" 9th april 2024, trustpilot review from mike. thank you mike! prosper was founded to maximise our members’ potential wealth. we provide pensions, investments and savings that have clear charges. and we keep them low. our founding members benefit from zero fee access on 30 index funds from the world's leading asset managers, zero platform fees and zero transaction fees. in the future, we will charge members a fair platform fee and low, fair and transparent fees for any other investment products we think represent great value. the business will always be run with a lean team so that we can pass on as much valu"
+						],
+						"newValue": [
+							"\"Given how new Prosper is to the market, the app and service is amazing. Very easy to use, easy to understand and the support is there if you need it (they quickly answered questions I had about my ISA transfer). The big selling point is not being ripped off in fees. I'd noticed how much I lost to fees each year on another app. Now I'm keeping it. And it's compounding. Winning.\" 9th April 2024, Trustpilot review from Mike. Thank you Mike! Prosper was founded to maximise our members’ potential wealth. We provide pensions, investments and savings that have clear charges. And we keep them low. Our founding members benefit from zero fee access on 30 index funds from the world's leading asset managers, zero platform fees and zero transaction fees. In the future, we will charge members a fair platform fee and low, fair and transparent fees for any other investment products we think represent great value. The business will always be run with a lean team so that we can pass on as much value as possible to our members. Prosper founder and CEO Nick Perrett and Chairman Ricky Knox have previously worked together building Tandem Bank. The company is backed by the founders of Monzo, Capital One and Admiral and other leaders in financial services. Capital at risk."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "7b18db5e-9e56-4934-a259-9df9e0e5e22e",
+						"newValue": "43a4d3e1-2180-4f43-b39b-c58ed9bcfbcf"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [18], "newValue": [26] },
+					{ "key": "Total_Funding_Amount__USD_", "oldValue": [7183350], "newValue": [4900000] },
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [1273725], "newValue": [4900000] },
+					{ "key": "Employees__Current_", "oldValue": [18], "newValue": [26] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [13], "newValue": [16] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [0], "newValue": [62.5] },
+					{ "key": "_version_", "oldValue": 1814257362498748400, "newValue": 1826313926134988800 },
+					{ "key": "Last_Funding_Date", "newValue": ["2025-02-03T00:00:00Z"] }
+				]
+			}
+		]
+	},
+	{
+		"url": "artian.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Artian AI"], "newValue": ["artian.ai"] },
+					{
+						"key": "id",
+						"oldValue": "772cc66c-d223-484d-8de6-49fe498bed96",
+						"newValue": "e319c9a3-9122-45e2-8c18-44fc72519db9"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-28T00:00:00Z"], "newValue": ["2024-12-23T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2024-12-23T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-10-08T00:00:00Z"],
+						"newValue": ["2024-12-09T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257296937582600, "newValue": 1826313889250279400 },
+					{ "key": "Employees__12_Months_Ago", "newValue": [2] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [200] }
+				]
+			}
+		]
+	},
+	{
+		"url": "brask.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Brask AI"], "newValue": ["Brask"] },
+					{
+						"key": "id",
+						"oldValue": "984ffdf9-e9b9-4a7a-bb6d-a892aad345bb",
+						"newValue": "db268af9-353e-4ee9-b080-70d86823b60b"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [29], "newValue": [26] },
+					{ "key": "Employees__Current_", "oldValue": [29], "newValue": [27] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [33], "newValue": [38] },
+					{ "key": "_version_", "oldValue": 1814257350244040700, "newValue": 1826313924652302300 }
+				]
+			}
+		]
+	},
+	{
+		"url": "withcardlift.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Cardlift"], "newValue": ["CardLift"] },
+					{
+						"key": "id",
+						"oldValue": "7c9dc004-27b6-4914-a2a1-982fae7e38aa",
+						"newValue": "3aa1a822-a98e-4814-971f-dff70aa32c3c"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [3], "newValue": [6] },
+					{ "key": "Employees__Current_", "oldValue": [3], "newValue": [6] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [100], "newValue": [500] },
+					{ "key": "_version_", "oldValue": 1814257371531182000, "newValue": 1826313925741772800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "sureapp.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Sure is the leading insurtech behind the world’s most recognized brands and carriers. Its enterprise SaaS infrastructure and embedded insurance programs drive the insurance industry forward to reach its full potential in an online era. Sure customers leverage its cohesive system of APIs to streamline the end-to-end insurance lifecycle resulting in better customer experiences supported by efficient digital operations. Founded in 2015, the company is headquartered in Santa Monica, California with offices around the globe."
+						],
+						"newValue": [
+							"Sure is the leading insurtech behind the world’s most recognized brands and carriers. Its enterprise SaaS infrastructure and embedded insurance programs drive the insurance industry forward to reach its full potential in an online era. Sure customers leverage its cohesive system of APIs to streamline the end-to-end insurance lifecycle resulting in better customer experiences supported by efficient digital operations. Founded in 2015, the company is headquartered in Dallas, TX with offices around the globe."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "4079aa6d-607a-4ad9-bdcf-8fce5cde5399",
+						"newValue": "caaa8216-0e4a-4db5-8edf-a7967d766508"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-28T00:00:00Z"], "newValue": ["2025-03-07T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [198], "newValue": [199] },
+					{ "key": "Employees__Current_", "oldValue": [198], "newValue": [200] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [187], "newValue": [198] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [5.88], "newValue": [0.51] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2025-03-07T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257301068972000, "newValue": 1826313871532490800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "aidentified.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Industry",
+						"oldValue": ["Artificial Intelligence; B2C; Machine Learning; Sales; Software"],
+						"newValue": ["Real Estate; Artificial Intelligence; B2C; Machine Learning; Sales; Software"]
+					},
+					{
+						"key": "id",
+						"oldValue": "dac93b70-e22d-4d80-90a8-1c25ee5cdc56",
+						"newValue": "7255651e-47fb-4c80-8e6f-c090370f6a36"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [47], "newValue": [57] },
+					{ "key": "Employees__Current_", "oldValue": [48], "newValue": [54] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [41], "newValue": [45] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [17.07], "newValue": [26.67] },
+					{ "key": "_version_", "oldValue": 1814257358095777800, "newValue": 1826313926821806000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "biteinvestments.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Bite Investments"], "newValue": ["Bite Stream"] },
+					{
+						"key": "Description",
+						"oldValue": [
+							"Bite Investments is a global financial technology company, providing software-as-a-service (SaaS) to digitalise alternatives investments in a seamless end-to-end investment process. The company’s investor solutions software, Bite Stream, is a configurable SaaS platform designed to enable fund managers to compliantly streamline and scale the distribution of private markets investment products in an easy, secure, and efficient way. Catering to all types of investors and alternative asset managers, it provides a fully digital, intuitive and efficient investor experience for product launch, investor subscription, onboarding, and post investment events. Find out more about Bite Stream: https://www.biteinvestments.com/bite-stream/ Bite’s investment solutions and digital marketplace bring alternative investments out of the institutional market, making them accessible to a larger audience of investors and advisors. Find out more about the investment platform: https://www.biteinvestments.com/investment-platform/ Learn more at https://www.biteinvestments.com/ or follow us on Twitter (https://twitter.com/biteinvestments/)."
+						],
+						"newValue": [
+							"Bite Investments is a global financial technology company, providing software-as-a-service (SaaS) to digitalise alternatives investments in a seamless end-to-end investment process. The company’s investor solutions software, Bite Stream, is a configurable SaaS platform designed to enable fund managers to compliantly streamline and scale the distribution of private markets investment products in an easy, secure, and efficient way. Catering to all types of investors and alternative asset managers, it provides a fully digital, intuitive and efficient investor experience for product launch, investor subscription, onboarding, and post investment events. Find out more about Bite Stream's solutions: https://www.biteinvestments.com/solutions/ Bite’s investment solutions and digital marketplace bring alternative investments out of the institutional market, making them accessible to a larger audience of investors and advisors. Find out more about how we serve investors here: https://www.biteinvestments.com/who-we-serve/investors/ Learn more at https://www.biteinvestments.com/ or follow us on X (https://x.com/BiteInvestments)."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "844d1989-81c3-4d63-97d5-6c6b64c5a856",
+						"newValue": "4a137e1c-4cd6-477a-a4cd-5fc2735570ec"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-11T00:00:00Z"], "newValue": ["2025-02-27T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [40], "newValue": [43] },
+					{ "key": "Employees__Current_", "oldValue": [39], "newValue": [41] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [36], "newValue": [44] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [8.33] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-24T00:00:00Z"],
+						"newValue": ["2025-03-04T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-09-24T00:00:00Z"],
+						"newValue": ["2025-03-04T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257372877553700, "newValue": 1826313872715284500 }
+				]
+			}
+		]
+	},
+	{
+		"url": "splitwise.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "79239069-808f-4469-8e74-e5891f592ec9",
+						"newValue": "ceac1732-9227-4aa9-9cca-a6aa50ab91b3"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-27T00:00:00Z"], "newValue": ["2024-12-02T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [36], "newValue": [39] },
+					{ "key": "Employees__Current_", "oldValue": [36], "newValue": [39] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [35], "newValue": [37] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [2.86], "newValue": [5.41] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2024-12-02T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257307254521900, "newValue": 1826313927734067200 }
+				]
+			}
+		]
+	},
+	{
+		"url": "getroi.co",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "c818d542-a687-438a-b17e-ce17d61ed4e5",
+						"newValue": "c2076eb9-fd81-42be-a3a4-3daaf49d3450"
+					},
+					{ "key": "_version_", "oldValue": 1814257362475679700, "newValue": 1826313927501283300 }
+				]
+			}
+		]
+	},
+	{
+		"url": "conduitpay.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Conduit makes it easy to move money internationally with faster speed, better visibility and fewer steps than traditional payment rails."
+						],
+						"newValue": [
+							"Conduit is a better way for global businesses to simply and cheaply move money and grow money with faster speed, better visibility and fewer steps than traditional payment rails. With a Conduit account, global businesses can make seamless cross-border commercial transactions between local fiat in emerging markets to USD around the world. Conduit gives global businesses an early-mover advantage to maximize new financial opportunities to make cross-border B2B payments and settle invoices simply and efficiently -- including to & from U.S. companies without requiring a U.S. entity or U.S. bank account. The Conduit payments dashboard offers businesses a simple, elegant, and intuitive dashboard to make cross-border payments today. Get started at conduit.fi"
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "c7b07253-fb44-4e9a-8b75-ca99c3989263",
+						"newValue": "c72c029e-f53b-4e26-98f4-e2e10183c3d0"
+					},
+					{ "key": "_version_", "oldValue": 1814257334461923300, "newValue": 1826313926022791200 },
+					{ "key": "Number_of_Employees", "newValue": [46] },
+					{ "key": "Employees__Current_", "newValue": [46] }
+				]
+			}
+		]
+	},
+	{
+		"url": "hyperlayer.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Hyperlayer"], "newValue": ["HyperJar"] },
+					{
+						"key": "id",
+						"oldValue": "988ccbd2-56ec-4b73-90ff-f4919a152038",
+						"newValue": "8f0eff77-930b-4bcd-858d-07347716e88e"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [8], "newValue": [23] },
+					{ "key": "Employees__Current_", "oldValue": [8], "newValue": [21] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [2], "newValue": [10] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [300], "newValue": [130] },
+					{ "key": "_version_", "oldValue": 1814257367047471000, "newValue": 1826313924911300600 }
+				]
+			}
+		]
+	},
+	{
+		"url": "lynx-fh.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "390a7e4b-e15e-46cc-a424-1f2ef3b5d6c8",
+						"newValue": "40962c89-ab57-42e8-9a75-895d12e6f9fd"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [26], "newValue": [28] },
+					{ "key": "Total_Funding_Amount__USD_", "oldValue": [17500000], "newValue": [44500000] },
+					{
+						"key": "Last_Funding_Date",
+						"oldValue": ["2022-03-03T00:00:00Z"],
+						"newValue": ["2025-02-06T00:00:00Z"]
+					},
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [17500000], "newValue": [27000000] },
+					{ "key": "Employees__Current_", "oldValue": [25], "newValue": [26] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [29], "newValue": [26] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-04T00:00:00Z"],
+						"newValue": ["2025-02-26T00:00:00Z"]
+					},
+					{
+						"key": "First_Meeting",
+						"oldValue": ["2022-01-17T00:00:00Z"],
+						"newValue": ["2018-11-28T00:00:00Z"]
+					},
+					{
+						"key": "First_Email",
+						"oldValue": ["2022-01-13T00:00:00Z"],
+						"newValue": ["2017-08-24T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-09-09T00:00:00Z"],
+						"newValue": ["2025-02-26T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257355883282400, "newValue": 1826313925580292000 },
+					{ "key": "Employees__Growth_YoY____", "newValue": [7.69] }
+				]
+			}
+		]
+	},
+	{
+		"url": "infinant.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"A Financial Technology company delivering digital platforms that enable our customers to thrive in a new landscape of helping non-financial brands offer financial services in ways that are secure, compliant and bring value to their core businesses."
+						],
+						"newValue": [
+							"Infinant provides the flexible platform and launch-acceleration tools for banks to distribute financial products through non-financial institution providers, and distribute products and services from fintech through their bank channels. The interlace platform differentiates by giving banks choice in their selection of features, fintech and processors for complete ownership of their ecosystem, so they can succeed with their customers, fintech and brands."
+						]
+					},
+					{
+						"key": "Industry",
+						"oldValue": ["Fintech; Software; Payments"],
+						"newValue": ["Fintech; Software; Payments; Security"]
+					},
+					{
+						"key": "id",
+						"oldValue": "67646555-3df3-4c21-811d-6e1a0c59a8cd",
+						"newValue": "2f73549c-f32a-453d-b00f-bda2d8d23c6b"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [26], "newValue": [27] },
+					{ "key": "Total_Funding_Amount__USD_", "oldValue": [5221125], "newValue": [15000000] },
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [5221125], "newValue": [15000000] },
+					{ "key": "Employees__Current_", "oldValue": [25], "newValue": [28] },
+					{ "key": "_version_", "oldValue": 1814257378876457000, "newValue": 1826314128985161700 },
+					{ "key": "Last_Funding_Date", "newValue": ["2024-12-26T00:00:00Z"] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [3.85] }
+				]
+			}
+		]
+	},
+	{
+		"url": "mesamember.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "178f029b-511e-48c5-9bd2-12df42fdcea3",
+						"newValue": "a80af408-7254-4141-863d-50422a449f99"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-27T00:00:00Z"], "newValue": ["2025-01-13T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2025-01-13T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257307244036000, "newValue": 1826313873937924000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "ultramarin.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "64d6f61f-b4a3-4e3a-ab47-afb796636b5c",
+						"newValue": "ac6d0084-7c70-4aef-9c8a-0d0891d586c5"
+					},
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [11475000] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [31], "newValue": [32] },
+					{ "key": "_version_", "oldValue": 1814257442495660000, "newValue": 1826314103484842000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "fpalpha.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "e27789d7-2559-4305-8187-7ce8ec8bc2a1",
+						"newValue": "d3b55f27-4014-4dc4-bf7a-747a9fdd0c65"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [24], "newValue": [23] },
+					{ "key": "Employees__Current_", "oldValue": [25], "newValue": [26] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [20], "newValue": [24] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [25] },
+					{ "key": "_version_", "oldValue": 1814257391007432700, "newValue": 1826314029809795000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "radiustech.xyz",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": ["building industrial scale onchain infrastructure."],
+						"newValue": ["Building industrial scale onchain infrastructure."]
+					},
+					{
+						"key": "id",
+						"oldValue": "ee223287-1e38-4c78-8a17-7adbfc23e154",
+						"newValue": "af1bac07-a516-45ef-a8fa-8774b3c4def1"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [9], "newValue": [16] },
+					{ "key": "Employees__Current_", "oldValue": [8], "newValue": [12] },
+					{ "key": "_version_", "oldValue": 1814258372458840000, "newValue": 1826314137075974100 },
+					{ "key": "Employees__12_Months_Ago", "newValue": [6] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [166.67] }
+				]
+			}
+		]
+	},
+	{
+		"url": "getwhale.co",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "32f8ba2c-8d2b-4518-a141-19ca4e735645",
+						"newValue": "a1215455-ef1d-45e6-8f4e-f02ad1b61e3d"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-08-12T00:00:00Z"], "newValue": ["2025-02-05T00:00:00Z"] },
+					{ "key": "Location__City_", "oldValue": ["Boston"], "newValue": ["Chicago"] },
+					{ "key": "Location__State_", "oldValue": ["Massachusetts"], "newValue": ["Illinois"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-08-12T00:00:00Z"],
+						"newValue": ["2025-02-11T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-08-01T00:00:00Z"],
+						"newValue": ["2025-02-11T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257398319153200, "newValue": 1826313891911565300 },
+					{
+						"key": "Description",
+						"newValue": [
+							"Whale handles the end-to-end process of collecting, managing, and returning security deposits for landlords while ensuring compliance with state and local regulations. It’s free for landlords, and renters love it. Here’s how it works: 1) Instead of paying their landlord directly, a new resident funds their Whale deposit account online via ACH transfer. 2) The deposit remain locked in their account for the duration of their lease, but they earn monthly interest on their full account balance while having full visibility into their money. 3) When it’s time to moves out, the landlord tells Whale how much to deduct for move-out charges. Whale then immediately transfers this amount to the landlord’s operating account and unlocks the resident’s deposit in their account, allowing them to get their money back faster. See Whale in action: https://vimeo.com/1004035628 Want to learn more? Email us at launch@getwhale.co"
+						]
+					},
+					{ "key": "Year_Founded", "newValue": [2023] },
+					{ "key": "Number_of_Employees", "newValue": [19] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/stealth-finproptech-startup"] },
+					{ "key": "Employees__Current_", "newValue": [19] }
+				]
+			}
+		]
+	},
+	{
+		"url": "luminos.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Luminos.AI"], "newValue": ["Luminos"] },
+					{
+						"key": "Description",
+						"oldValue": ["More information coming soon."],
+						"newValue": [
+							"Luminos.AI was custom-built to serve the needs of the largest and most innovative companies on the planet. Our software has been deployed to manage AI risks in everything from generative AI to facial recognition, credit, hiring decisions and more. We apply years of nuanced legal experience to make sure AI governance works—in practice and at scale."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "dc351858-9a7f-4825-902b-2e6cc198bc02",
+						"newValue": "15c9c367-1a3f-4b50-95fa-5904b8db8178"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-03T00:00:00Z"], "newValue": ["2025-01-29T00:00:00Z"] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [1], "newValue": [6] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [700], "newValue": [50] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-03T00:00:00Z"],
+						"newValue": ["2025-01-29T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-08-22T00:00:00Z"],
+						"newValue": ["2025-01-07T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257383765966800, "newValue": 1826313873791123500 }
+				]
+			}
+		]
+	},
+	{
+		"url": "getcometa.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "06d3f35c-e3ae-48f2-a044-5a00fdd242c0",
+						"newValue": "f401fb22-56c1-4402-9fdc-40f2a281c2e9"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [49], "newValue": [62] },
+					{ "key": "Total_Funding_Amount__USD_", "oldValue": [5000000], "newValue": [17000000] },
+					{
+						"key": "Last_Funding_Date",
+						"oldValue": ["2023-03-01T00:00:00Z"],
+						"newValue": ["2024-11-01T00:00:00Z"]
+					},
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [5000000], "newValue": [12000000] },
+					{ "key": "Employees__Current_", "oldValue": [46], "newValue": [59] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [32], "newValue": [42] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [43.75], "newValue": [47.62] },
+					{ "key": "_version_", "oldValue": 1814257401865437200, "newValue": 1826314086015565800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "cloudwalk.io",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"We are democratizing the payments industry in Brazil, by empowering entrepreneurs through technological, inclusive, and life-changing solutions. Based in Brazil, CloudWalk is a high-end global payment network built on modern technology and proprietary blockchain, focused in bringing a revolution to the payment ecosystem for small and medium-sized businesses. As a unicorn, the company has provided its customers with more than R$ 1 billion in savings by charging fair fees on its transactions and is now present in more than 300.000 businesses across 5.000 brazilian cities. With investors such as the Valor Capital Group, HIVE Ventures and Coatue, the company has already raised US$ 365.5 million in investments and R$3.4 billion in FDICs for anticipation of receivables in its network of financial solutions. In 2022, it was the only brazilian fintech to be featured in the \"The Retail Tech 100\" ranking by CB Insights, on the \"Protection Solutions for Payments and Frauds\"."
+						]
+					},
+					{
+						"key": "Industry",
+						"oldValue": ["Mobile Payments; Blockchain; Fintech; Payments; Software; Sales; Credit Cards"]
+					},
+					{
+						"key": "id",
+						"oldValue": "02d51331-5ffe-4015-88d8-559ac2250b82",
+						"newValue": "c6a7b216-5eb9-4256-ae8c-2e88a0125c45"
+					},
+					{ "key": "Organization_Id", "oldValue": [298092679], "newValue": [301688449] },
+					{
+						"key": "Source_of_Introduction__Email_",
+						"oldValue": ["aj.galassi@ftpartners.com"],
+						"newValue": ["agalassi18@gmail.com"]
+					},
+					{ "key": "Location__City_", "oldValue": ["São Paulo"] },
+					{ "key": "Location__State_", "oldValue": ["State of São Paulo"] },
+					{ "key": "Location__Country_", "oldValue": ["Brazil"] },
+					{ "key": "Year_Founded", "oldValue": [2013] },
+					{ "key": "Number_of_Employees", "oldValue": [577] },
+					{
+						"key": "LinkedIn_Profile__Founders_CEOs_",
+						"oldValue": [
+							"Eliézer Pimentel (CEO and Co-Founder (sold)): https://linkedin.com/in/eliezerpimentel; Arthur Macedo (Partner and Co-founder): https://linkedin.com/in/arthurlsmacedo; Luis Silva (Co-Founder & CEO): https://linkedin.com/in/luisbebop; Bruno F. (Co-Founder): https://linkedin.com/in/bmsatierf"
+						]
+					},
+					{ "key": "LinkedIn_URL", "oldValue": ["https://linkedin.com/company/cloudwalkinc"] },
+					{ "key": "Total_Funding_Amount__USD_", "oldValue": [340000000] },
+					{ "key": "Last_Funding_Date", "oldValue": ["2021-11-17T00:00:00Z"] },
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [150000000] },
+					{ "key": "Employees__Current_", "oldValue": [565] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [475] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [18.95] },
+					{ "key": "_version_", "oldValue": 1814257410096758800, "newValue": 1826314157840924700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "altbank.co",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "f4232ed8-a83d-4210-b247-4640fa9e99a9",
+						"newValue": "92b6fb35-beef-4e99-8c32-4456f46c139c"
+					},
+					{ "key": "_version_", "oldValue": 1814257407916769300, "newValue": 1826314029770997800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "fifthdimensionai.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Industry",
+						"oldValue": ["Artificial Intelligence; Fintech"],
+						"newValue": ["Artificial Intelligence; Fintech; Enterprise Software"]
+					},
+					{
+						"key": "id",
+						"oldValue": "4293a9b3-1e88-4102-be1a-914f56629cc6",
+						"newValue": "e747f10a-9ef4-45be-a571-775c885904c5"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-22T00:00:00Z"], "newValue": ["2025-01-22T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [14], "newValue": [17] },
+					{ "key": "Employees__Current_", "oldValue": [14], "newValue": [18] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [3], "newValue": [8] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [366.67], "newValue": [112.5] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-22T00:00:00Z"],
+						"newValue": ["2025-01-22T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-07-16T00:00:00Z"],
+						"newValue": ["2025-01-22T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257328772350000, "newValue": 1826313887252742100 }
+				]
+			}
+		]
+	},
+	{
+		"url": "bynovella.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "48ffc970-50dd-4a9e-acc3-9ae7b53fadf9",
+						"newValue": "d763de1b-ecec-4087-8386-b955ab8764c9"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-13T00:00:00Z"], "newValue": ["2025-01-28T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-17T00:00:00Z"],
+						"newValue": ["2025-02-25T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-09-17T00:00:00Z"],
+						"newValue": ["2025-02-25T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257370526646300, "newValue": 1826313874866962400 },
+					{
+						"key": "Description",
+						"newValue": [
+							"Find E&S coverage in minutes. Commercial Property, General Liability and more coverages instantly when you submit a risk"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"url": "xmtp.org",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Ephemera"], "newValue": ["XMTP"] },
+					{
+						"key": "id",
+						"oldValue": "c03e36ab-3087-4466-9021-7ff1570f9fde",
+						"newValue": "4571292e-9bae-4513-8ca2-38b93d5e7578"
+					},
+					{
+						"key": "LinkedIn_URL",
+						"oldValue": ["https://linkedin.com/company/xmtpinc"],
+						"newValue": ["https://linkedin.com/company/ephemerahq"]
+					},
+					{ "key": "_version_", "oldValue": 1814258342755827700, "newValue": 1826314104564875300 }
+				]
+			}
+		]
+	},
+	{
+		"url": "renofi.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "96a8e632-74f3-4607-bbcc-7945a473fb22",
+						"newValue": "b839149e-2931-4814-812d-18e596589e0c"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [75], "newValue": [72] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [66], "newValue": [76] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [10.61] },
+					{ "key": "_version_", "oldValue": 1814257360226484200, "newValue": 1826313926529253400 }
+				]
+			}
+		]
+	},
+	{
+		"url": "bluej.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Industry",
+						"oldValue": ["Computer; Legal; Software; Machine Learning"],
+						"newValue": ["Computer; Legal; Software; Fintech"]
+					},
+					{
+						"key": "id",
+						"oldValue": "e4f97ff9-5685-476f-b1e4-c3e475a3f000",
+						"newValue": "1899947a-6ee2-4096-be6e-da9cb3a483a9"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-01T00:00:00Z"], "newValue": ["2025-03-01T00:00:00Z"] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [57] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-01T00:00:00Z"],
+						"newValue": ["2025-03-01T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257358120943600, "newValue": 1826313887288393700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "float.tech",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Float Technologies Inc"], "newValue": ["Float"] },
+					{
+						"key": "Description",
+						"oldValue": [
+							"float's vision is to disrupt and redefine how financial institutions interact within capital markets. our mission is to dismantle manual processes and outdated mechanisms that have long hindered efficiency and innovation, replacing them with a shared, streamlined, digital-first platform to accelerate automation. with an initial focus on otc derivatives, float is designing powerful tools to automate and enhance complex transaction management workflows. we streamline trading and operations workflows by automating routine tasks and transforming unstructured inputs into structured data, significantly reducing the time and effort spent on manual, repetitive work."
+						],
+						"newValue": [
+							"Float's vision is to disrupt and redefine how financial institutions interact within capital markets. Our mission is to dismantle manual processes and outdated mechanisms that have long hindered efficiency and innovation, replacing them with a shared, streamlined, digital-first platform to accelerate automation. With an initial focus on OTC derivatives, Float is designing powerful tools to automate and enhance complex transaction management workflows. We streamline trading and operations workflows by automating routine tasks and transforming unstructured inputs into structured data, significantly reducing the time and effort spent on manual, repetitive work."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "e65f1c7e-7c84-4444-ad75-24b71f871cd6",
+						"newValue": "8c75e2b7-7695-4cc3-83d1-3834a9781496"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-26T00:00:00Z"], "newValue": ["2024-11-01T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [1], "newValue": [6] },
+					{ "key": "Employees__Current_", "oldValue": [1], "newValue": [6] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-26T00:00:00Z"],
+						"newValue": ["2024-11-06T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-04-03T00:00:00Z"],
+						"newValue": ["2024-11-06T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257362052055000, "newValue": 1826313924916543500 },
+					{ "key": "Year_Founded", "newValue": [2023] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [1] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [500] }
+				]
+			}
+		]
+	},
+	{
+		"url": "bvnk.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"BVNK is a next-generation payments platform for businesses. We bridge traditional and digital finance to make payments borderless, fast, and secure. Using the BVNK platform, businesses can send and receive payments anywhere in the world in seconds, 24/7. Newsweek's 25th Most Loved Workplace globally."
+						],
+						"newValue": [
+							"BVNK accelerates global money movement using stablecoins. We unify banks and blockchains in a single platform, so innovators can launch new payments products quickly."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "4a3db117-879d-482d-b648-0bb5594a1441",
+						"newValue": "d8bff5df-946f-468f-bfa0-99eb297067c7"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-23T00:00:00Z"], "newValue": ["2024-11-14T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [276], "newValue": [263] },
+					{ "key": "Employees__Current_", "oldValue": [272], "newValue": [267] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [226], "newValue": [279] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [20.35] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-23T00:00:00Z"],
+						"newValue": ["2024-11-14T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-09-26T00:00:00Z"],
+						"newValue": ["2024-11-05T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257325392789500, "newValue": 1826313926575390700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "kontango.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Kontango provides a range of commercial services for chemical markets and other underserved commodities. These services include market map databases, market intelligence capture tools, commercial planning software, proprietary pricing models, and brokering services. Kontango helps trading teams in opaque, illiquid markets to increase discipline, gather and store market intelligence, and evaluate more alternatives to optimize their day-to-day physical trading. As of year end 2023, 7 million tons / $2.5bn of physical trade planning is being managed on Kontango. We are currently active in the following markets: • Fertilizers • Ammonia • Sulfuric Acid • PVC • LNG • Industrial Acids & Bases • Fats & Oils • More coming soon!"
+						],
+						"newValue": [
+							"We transform how companies manage products in commodities. The last time a revolution in technology hit industry was in 1972 when SAP set up shop with their first customer, a chemical company called Imperial Chemical Industries (ICI). The oldest industry in the world deserves great tools."
+						]
+					},
+					{
+						"key": "Industry",
+						"oldValue": ["B2B; Chemical; Software"],
+						"newValue": ["B2B; Chemical; Software; Transportation"]
+					},
+					{
+						"key": "id",
+						"oldValue": "0e074602-4bec-4108-bf04-211b725facee",
+						"newValue": "11b26172-861c-4dc7-a68b-0ce296ad5fdc"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [9], "newValue": [10] },
+					{ "key": "Employees__Current_", "oldValue": [9], "newValue": [8] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [6], "newValue": [8] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [50], "newValue": [25] },
+					{ "key": "_version_", "oldValue": 1814257419537088500, "newValue": 1826314149755355100 }
+				]
+			}
+		]
+	},
+	{
+		"url": "rvvup.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Rvvup bridges the 3 generations of payments for online businesses. Consolidate multiple payment management, transaction data, unlock actionable insights & simplify reconciliation using a single interface. Future proof your checkout payments."
+						],
+						"newValue": [
+							"Payments built for performance. Embed payments into your product with Rvvup's customisable blocks. Boost conversion, slash fees and get paid in real time."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "4af0f382-8322-4aa1-94f9-e9c5bee313d2",
+						"newValue": "ea87d39b-f05f-4d74-b41e-65c4a48112a0"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-05-31T00:00:00Z"], "newValue": ["2025-01-08T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [35], "newValue": [26] },
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [7825950] },
+					{ "key": "Employees__Current_", "oldValue": [36], "newValue": [27] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [50], "newValue": [33] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-05-31T00:00:00Z"],
+						"newValue": ["2025-01-08T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257427362611200, "newValue": 1826313892070948900 }
+				]
+			}
+		]
+	},
+	{
+		"url": "hifibridge.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"The way a business handles it's money is the difference in moving with speed or falling behind. We build the modern payment rails to allow businesses to move faster, safer, and more secure in the new era of the internet. Our suite of API's allow businesses to supercharge their payments to increase cash flow, reduce inefficiencies, increase visibility and reduce fraud. We believe blockchain represents a shift in connectivity and computing, and we make the most powerful tools accessible for everyone. Join us on our mission to move the world forward. We're Hiring!"
+						],
+						"newValue": [
+							"Over the past 15 years, we saw every company become a fintech company and we believe that in the next decade - every company will transform into a stablecoin company. At HIFI, we create the tools to power the next chapter of the internet to allow fintechs and enterprises to create entirely new money movement experiences with stablecoins. We move billions across every corner of the world from the U.S., Latam, Africa, and APAC - while working with ambitious startups to reimagine new financial applications and established Fortune 500s."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "7b8ba566-6008-4545-9d84-eb3c26aae43f",
+						"newValue": "b02831c4-d8aa-4ce1-9cc5-f2cb45760b68"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-18T00:00:00Z"], "newValue": ["2025-02-01T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [7], "newValue": [12] },
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [183600] },
+					{ "key": "Employees__Current_", "oldValue": [7], "newValue": [11] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [3], "newValue": [9] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [133.33], "newValue": [33.33] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-18T00:00:00Z"],
+						"newValue": ["2025-02-01T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-09-18T00:00:00Z"],
+						"newValue": ["2025-01-08T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257366546251800, "newValue": 1826313874866962400 }
+				]
+			}
+		]
+	},
+	{
+		"url": "justt.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Justt"], "newValue": ["Justt.ai"] },
+					{
+						"key": "id",
+						"oldValue": "28796315-2f59-4f0d-a4a3-53d4806c2f01",
+						"newValue": "1a697016-60fe-456d-ad29-64ab7ea782d7"
+					},
+					{ "key": "_version_", "oldValue": 1814258348779896800, "newValue": 1826314112365232000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "optifino.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "53393bfa-af5d-4b50-b425-2730ecc7a223",
+						"newValue": "0bd2dc83-afb5-4239-88b5-5c9e75385782"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [21], "newValue": [22] },
+					{ "key": "Employees__Current_", "oldValue": [22], "newValue": [21] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [12], "newValue": [20] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [83.33], "newValue": [10] },
+					{ "key": "_version_", "oldValue": 1814257436573302800, "newValue": 1826314109703946200 }
+				]
+			}
+		]
+	},
+	{
+		"url": "daydream.dental",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Outsourced dental billing and insurance verification services with detailed analytics and robust cybersecurity"
+						],
+						"newValue": [
+							"We help dentists collect the money they are owed: faster, simpler, and without migraines."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "7dab1605-9459-4552-92f3-3d0a2c7ddf3f",
+						"newValue": "bc8da134-ce44-494c-9a54-d337ef18c574"
+					},
+					{ "key": "Year_Founded", "oldValue": [2022], "newValue": [2024] },
+					{ "key": "_version_", "oldValue": 1814258365782556700, "newValue": 1826313872430071800 },
+					{ "key": "Last_Email", "newValue": ["2025-01-13T00:00:00Z"] },
+					{ "key": "Source_of_Introduction__Full_Name_", "newValue": ["Eric Kaplan"] },
+					{ "key": "Source_of_Introduction__Email_", "newValue": ["ekaplan@bvp.com"] },
+					{ "key": "Number_of_Employees", "newValue": [7] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/daydream-dental"] },
+					{ "key": "Employees__Current_", "newValue": [7] },
+					{ "key": "Last_Contact", "newValue": ["2025-01-13T00:00:00Z"] },
+					{ "key": "First_Meeting", "newValue": ["2024-11-21T00:00:00Z"] },
+					{ "key": "First_Email", "newValue": ["2024-04-17T00:00:00Z"] },
+					{ "key": "Last_Meeting", "newValue": ["2024-12-18T00:00:00Z"] }
+				]
+			}
+		]
+	},
+	{
+		"url": "tern.travel",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "33cafff2-6266-4d02-8be7-35ce9bfee60d",
+						"newValue": "adbce6a5-7ed0-4780-82ff-8178a52bbec0"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-04-29T00:00:00Z"], "newValue": ["2025-01-20T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [15], "newValue": [17] },
+					{ "key": "Employees__Current_", "oldValue": [17], "newValue": [18] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [13], "newValue": [16] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [30.77], "newValue": [6.25] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-04-29T00:00:00Z"],
+						"newValue": ["2025-01-21T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-04-23T00:00:00Z"],
+						"newValue": ["2025-01-21T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257442337325000, "newValue": 1826313875455213600 }
+				]
+			}
+		]
+	},
+	{
+		"url": "cork.protection",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "aba8f7dd-a4a6-4b5c-89d3-7e910bcc8027",
+						"newValue": "e8431588-9fd5-4b09-be17-dfe20206c475"
+					},
+					{ "key": "_version_", "oldValue": 1814257448333082600, "newValue": 1826314103866523600 }
+				]
+			}
+		]
+	},
+	{
+		"url": "foundahealth.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Founda enables healthcare to collaborate and innovate by offering a platform that exchanges data between healthcare IT systems and external applications. We introduce platform thinking in healthcare by offering scalable infrastructure and reusable, standardised integrations with healthcare IT systems. Hospitals, medical practices, labs and others use our platform to collaborate and get easy access to the latest healthcare applications. We offer free integrations and companies only pay for actual use. Because of a dramatically lower barrier to entry, healthcare profits as a whole by opening the door for innovative solutions. See our website https://founda.com/ or send us an email at hello@founda.com"
+						],
+						"newValue": [
+							"Founda Health is a fast-growing technology company that provides a global digital infrastructure for data availability in healthcare. We leverage cutting-edge technology to seamlessly connect digital healthcare applications to existing IT systems and allow smooth data exchange between care settings, overcoming challenges posed by multiple data standards and formats. The Founda Health platform transforms healthcare by enabling data availability for Healthcare Providers, Digital Health Solutions and HIE Network Organizations to improve care coordination, patient outcomes and business efficiency."
+						]
+					},
+					{ "key": "Industry", "oldValue": ["Marketplace"] },
+					{
+						"key": "id",
+						"oldValue": "a9beca8e-6e99-4acc-b67d-992b5993b716",
+						"newValue": "f88a656e-4825-43f0-b1a1-ce5d7680e8db"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-04-11T00:00:00Z"], "newValue": ["2025-02-18T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [60], "newValue": [79] },
+					{ "key": "Employees__Current_", "oldValue": [58], "newValue": [79] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [37], "newValue": [75] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [56.76], "newValue": [5] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-04-11T00:00:00Z"],
+						"newValue": ["2025-02-18T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257452093276200, "newValue": 1826313900313804800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "uptickfinancialservices.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Name",
+						"oldValue": ["UpTick Financial Services"],
+						"newValue": ["UptickFinancialServices"]
+					},
+					{
+						"key": "id",
+						"oldValue": "f7a97303-7e18-4f2e-9417-984c330424aa",
+						"newValue": "91d3fd80-60ad-4c82-bafc-2c56dd42fed2"
+					},
+					{ "key": "_version_", "oldValue": 1814258363136999400, "newValue": 1826314129237868500 }
+				]
+			}
+		]
+	},
+	{
+		"url": "seedsinvestor.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Through personal stories from the start-up world, co-hosts Zach and Kelsey offer an insider perspective on honing big ideas into business realities.Tailored for financial advisors, the show serves as a roadmap for entrepreneurship, from initial concept development to effective implementation strategies. Each episode is a blend of personal anecdotes, professional insights, and practical tips, making it an invaluable resource for advisors at any stage of their career, eager to build and refine their businesses from the ground up."
+						],
+						"newValue": [
+							"With Seeds, advisors can better assess investors, automate personalized portfolios, and present engaging insights–all in one digital solution."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "3368d626-2368-45ba-b638-30c67dad42ff",
+						"newValue": "0fe8c3e3-252d-4e62-98fa-eff2e272b396"
+					},
+					{
+						"key": "LinkedIn_URL",
+						"oldValue": ["https://linkedin.com/company/from-the-ground-up-podcast"],
+						"newValue": ["https://linkedin.com/company/seeds-investor"]
+					},
+					{ "key": "Employees__Current_", "oldValue": [21], "newValue": [18] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [18], "newValue": [22] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [16.67] },
+					{ "key": "_version_", "oldValue": 1814257460560527400, "newValue": 1826314149475385300 }
+				]
+			}
+		]
+	},
+	{
+		"url": "fusefinance.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Fuse Finance"], "newValue": ["Fusefinance"] },
+					{
+						"key": "id",
+						"oldValue": "3a437f0a-cfe3-4234-bb54-0f9fd410c96e",
+						"newValue": "80679b07-e24a-4286-8dee-c32afbd8b695"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-08-20T00:00:00Z"], "newValue": ["2025-02-21T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [32], "newValue": [30] },
+					{ "key": "Employees__Current_", "oldValue": [27], "newValue": [32] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [14], "newValue": [20] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [92.86], "newValue": [50] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-08-20T00:00:00Z"],
+						"newValue": ["2025-02-21T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-07-18T00:00:00Z"],
+						"newValue": ["2025-02-20T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257391004287000, "newValue": 1826313872011690000 },
+					{ "key": "Year_Founded", "newValue": [2021] }
+				]
+			}
+		]
+	},
+	{
+		"url": "assured.claims",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Industry",
+						"oldValue": ["Enterprise Software; Fintech; Insurance; Insurtech"],
+						"newValue": ["Fintech; Insurance; Insurtech"]
+					},
+					{
+						"key": "id",
+						"oldValue": "b7e12b9a-cb47-4dc2-bea6-89ef287de5ac",
+						"newValue": "c2add38c-bbed-4880-80f5-fd6961238d03"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [24], "newValue": [39] },
+					{ "key": "Employees__Current_", "oldValue": [23], "newValue": [35] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [16], "newValue": [27] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [43.75], "newValue": [44.44] },
+					{
+						"key": "First_Email",
+						"oldValue": ["2021-06-15T00:00:00Z"],
+						"newValue": ["2017-09-19T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2019-07-11T00:00:00Z"],
+						"newValue": ["2023-07-18T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257355955634200, "newValue": 1826313924979458000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "sutro.xyz",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Sutro is the first company using the power of AI to instantly generate and publish full, production ready mobile and web apps starting from a simple text prompt. Join our waitlist today! sutro.xyz"
+						],
+						"newValue": [
+							"Making it 1000X faster for people to build consumer products We're hiring engineers in the Bay Area! (DM us!)"
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "89577a7c-1cd5-4190-a993-b28d7d98b47a",
+						"newValue": "d1d88ebc-af46-435f-a59a-311417bfc599"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [7], "newValue": [8] },
+					{ "key": "Employees__Current_", "oldValue": [7], "newValue": [8] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [6], "newValue": [7] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [16.67], "newValue": [14.29] },
+					{ "key": "_version_", "oldValue": 1814257452092227600, "newValue": 1826314074730791000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "salvato.io",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "fcf3fb1b-3670-46f3-baa4-2cdb3b25a5da",
+						"newValue": "19803d21-6484-4f83-a39f-5787252139b5"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-07T00:00:00Z"], "newValue": ["2025-01-10T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-07T00:00:00Z"],
+						"newValue": ["2025-01-10T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257355366334500, "newValue": 1826313901734625300 },
+					{
+						"key": "Description",
+						"newValue": [
+							"SALVATO is an online auction for insurance vehicles, with a unique ability to deliver significantly lower expenses to both sellers and buyers"
+						]
+					},
+					{ "key": "Location__City_", "newValue": ["Chicago"] },
+					{ "key": "Location__State_", "newValue": ["Illinois"] },
+					{ "key": "Location__Country_", "newValue": ["United States"] },
+					{ "key": "Number_of_Employees", "newValue": [3] },
+					{ "key": "LinkedIn_URL", "newValue": ["https://linkedin.com/company/salvato"] },
+					{ "key": "Employees__Current_", "newValue": [4] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [1] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [200] }
+				]
+			}
+		]
+	},
+	{
+		"url": "alep.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "2d5473b6-0f58-40a4-8716-7ff00dbfad53",
+						"newValue": "548ecd79-a5e4-46f4-8fd0-36c7f036ba10"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [2], "newValue": [1] },
+					{ "key": "_version_", "oldValue": 1814258349938573300, "newValue": 1826314113197801500 },
+					{ "key": "Employees__12_Months_Ago", "newValue": [2] }
+				]
+			}
+		]
+	},
+	{
+		"url": "vinylequity.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "b5ffd25f-1b93-4ea8-9754-1ee0f1b9ecb6",
+						"newValue": "3503ea0d-bfcc-4623-9c76-8ab4d42daf57"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [6], "newValue": [9] },
+					{ "key": "Employees__Current_", "oldValue": [5], "newValue": [8] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [4], "newValue": [5] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [25], "newValue": [80] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-22T00:00:00Z"],
+						"newValue": ["2024-11-05T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-04-02T00:00:00Z"],
+						"newValue": ["2024-11-05T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257328099164200, "newValue": 1826313924901863400 }
+				]
+			}
+		]
+	},
+	{
+		"url": "openbb.co",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["OpenBB"], "newValue": ["OpenBB 🦋"] },
+					{
+						"key": "Description",
+						"oldValue": ["Making investment research effective, powerful and accessible to everyone."],
+						"newValue": [
+							"OpenBB is a leading open source investment analysis company. Our mission is to make investment research effective, powerful and accessible to everyone."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "4aeece1e-25bf-44ec-bf48-932551803da5",
+						"newValue": "5718a56c-66a8-459d-ab1f-e58e1623bc43"
+					},
+					{ "key": "Location__City_", "oldValue": ["New York"], "newValue": ["Franconia"] },
+					{ "key": "Location__State_", "oldValue": ["New York"], "newValue": ["Virginia"] },
+					{ "key": "Year_Founded", "oldValue": [2021], "newValue": [2016] },
+					{ "key": "Employees__Current_", "oldValue": [22], "newValue": [21] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [26], "newValue": [24] },
+					{ "key": "_version_", "oldValue": 1814257479367786500, "newValue": 1826314074205454300 }
+				]
+			}
+		]
+	},
+	{
+		"url": "finnyai.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Our mission at FINNY is to take the guesswork out of prospecting, and equip wealth managers with the tools they need to close on the highest priority prospects."
+						],
+						"newValue": ["Helping financial advisors grow their businesses."]
+					},
+					{
+						"key": "id",
+						"oldValue": "5f251a18-57c6-4529-95a6-52065243e20f",
+						"newValue": "1e521eee-0668-4021-83dd-cbaa0f6e2635"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [11], "newValue": [13] },
+					{ "key": "Employees__Current_", "oldValue": [7], "newValue": [13] },
+					{ "key": "_version_", "oldValue": 1814257378200125400, "newValue": 1826314117912199200 },
+					{ "key": "Total_Funding_Amount__USD_", "newValue": [4300000] },
+					{ "key": "Last_Funding_Date", "newValue": ["2024-12-13T00:00:00Z"] },
+					{ "key": "Last_Funding_Amount__USD_", "newValue": [4300000] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [6] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [116.67] }
+				]
+			}
+		]
+	},
+	{
+		"url": "folio.co",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": ["the most delightful way to manage purchasing at your hotel."],
+						"newValue": ["The most delightful way to manage purchasing at your hotel."]
+					},
+					{
+						"key": "id",
+						"oldValue": "f3984506-9444-4799-b822-0ab1961a3051",
+						"newValue": "553fc779-4e38-4ef6-9895-edd62fddfd33"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-07-09T00:00:00Z"], "newValue": ["2025-03-03T00:00:00Z"] },
+					{
+						"key": "Source_of_Introduction__Full_Name_",
+						"oldValue": ["Jordy Albert"],
+						"newValue": ["Julie Overdorff"]
+					},
+					{
+						"key": "Source_of_Introduction__Email_",
+						"oldValue": ["jordy@walkabout.vc"],
+						"newValue": ["julie.overdorff@gmail.com"]
+					},
+					{ "key": "Number_of_Employees", "oldValue": [9], "newValue": [6] },
+					{ "key": "Employees__Current_", "oldValue": [9], "newValue": [8] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [2], "newValue": [4] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [350], "newValue": [50] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-07-09T00:00:00Z"],
+						"newValue": ["2025-03-03T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-07-09T00:00:00Z"],
+						"newValue": ["2025-02-11T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257412238999600, "newValue": 1826313872419586000 },
+					{ "key": "Year_Founded", "newValue": [2023] }
+				]
+			}
+		]
+	},
+	{
+		"url": "struxhub.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Industry",
+						"oldValue": ["Construction; Legal"],
+						"newValue": ["Construction; Legal; Real Estate"]
+					},
+					{
+						"key": "id",
+						"oldValue": "f1de703c-d56b-4fd7-8e2f-79003ac6a1ed",
+						"newValue": "a9a57251-36cb-404c-91db-e5693747a67a"
+					},
+					{ "key": "Employees__12_Months_Ago", "oldValue": [9], "newValue": [5] },
+					{ "key": "_version_", "oldValue": 1814258280146403300, "newValue": 1826314047131222000 },
+					{ "key": "Total_Funding_Amount__USD_", "newValue": [4000000] },
+					{ "key": "Last_Funding_Date", "newValue": ["2025-01-06T00:00:00Z"] },
+					{ "key": "Last_Funding_Amount__USD_", "newValue": [4000000] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [20] }
+				]
+			}
+		]
+	},
+	{
+		"url": "tarci.io",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Data that makes businesses thrive. Tarci is A continuous intelligence engine that generates dynamic SMB data. Don’t settle for static data. Dynamic data generated from early signals across multiple sources lets you reach prospects with real needs before they enter the buying window. Using advanced data science, we’ve finally cracked the code on capturing SMB data for businesses with 1 to 500 employees (0 to $20M). Our Continuous Intelligence platform connects a wide range of external data sources, refreshing on a weekly basis to get an accurate view of SMBs worldwide."
+						],
+						"newValue": [
+							"Increase sales & marketing performance, reduce churn and mitigate risk with Tarci’s AI small business (SMB) intelligence engine that continuously collects and analyzes SMB signals. Tarci proprietary data engine is the world's most comprehensive and dynamic data set about small businesses. Use it for commercial, risk underwriting or training your GenAI models."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "620b01ea-3091-43cf-b4aa-87ed85222a34",
+						"newValue": "9ceb6886-96d2-4847-9032-ebbd5baaeafa"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [44], "newValue": [39] },
+					{ "key": "Employees__Current_", "oldValue": [45], "newValue": [40] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [51], "newValue": [48] },
+					{ "key": "_version_", "oldValue": 1814257409878655000, "newValue": 1826314088285732900 }
+				]
+			}
+		]
+	},
+	{
+		"url": "bennyapi.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Our mission at Benny is to make government benefits seamless to access and manage for the average American. Today, government benefits are disbursed by archaic systems over broken user experiences. We are building something better. We're creating APIs to help people access and manage government benefits in the financial apps people are already using every day. We also work with States to create modern software for benefits program management and disbursement."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "58804484-21e2-444c-8fd8-02eb90663bfb",
+						"newValue": "59f8793a-ca55-4ad8-8cf7-46eb7eecde30"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-27T00:00:00Z"], "newValue": ["2025-01-07T00:00:00Z"] },
+					{ "key": "Location__City_", "oldValue": ["New York"] },
+					{ "key": "Location__State_", "oldValue": ["New York"] },
+					{ "key": "Location__Country_", "oldValue": ["United States"] },
+					{ "key": "Year_Founded", "oldValue": [2023] },
+					{ "key": "Number_of_Employees", "oldValue": [7], "newValue": [5] },
+					{ "key": "LinkedIn_URL", "oldValue": ["https://linkedin.com/company/bennyapi"] },
+					{ "key": "Employees__Current_", "oldValue": [7], "newValue": [5] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [3], "newValue": [4] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [133.33], "newValue": [25] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2025-02-07T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2025-02-07T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257307235647500, "newValue": 1826313887595626500 }
+				]
+			}
+		]
+	},
+	{
+		"url": "redstrings.io",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"A Smart, Powerful and Fully Customizable Workspace for Risk, Fraud and Compliance Teams."
+						],
+						"newValue": [
+							"We provide full service Enhanced Due-Diligence reviews. Powered by AI, we deliver complete EDD reports, along with recommendations risk scores and summaries, signed by an EDD expert. All with incredible accuracy and in record breaking times. Restrings is proud to be the leading technological solution to a process that is stuck in the past."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "42d93f06-4634-4e04-9b15-86df3a28a200",
+						"newValue": "a858977c-57cb-47a4-b489-2878892d510d"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [11], "newValue": [10] },
+					{ "key": "Employees__Current_", "oldValue": [10], "newValue": [9] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [12], "newValue": [10] },
+					{ "key": "_version_", "oldValue": 1814258330018775000, "newValue": 1826314090044194800 },
+					{ "key": "Employees__Growth_YoY____", "newValue": [0] }
+				]
+			}
+		]
+	},
+	{
+		"url": "flex-charge.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["FlexFactor"], "newValue": ["FlexCharge"] },
+					{
+						"key": "Description",
+						"oldValue": [
+							"FlexCharge is an AI-driven platform that partners with merchants and payment providers to instantly review and recover failed customer transactions at no risk to the merchant and at no cost to the consumer. The problem we tackle: Digital commerce still has a big payment problem with 5-25% of transactions declined in an on-line shopping experience, representing +$500bn of lost sales. Worse, 50-75% of shoppers will move on to another store or drop their purchase after a first payment decline. Existing solutions only partially address the problem: Current solutions only offer marginal gains. Payment orchestration, offering multiple payment options, fraud detection platforms, and tokenization strategies all help, but have limited results and only use limited information. Most services address fraud, but not other decline codes representing over 75% of overall declines such as Funds not Available and Do Not Honor. The FlexCharge approach: Our platform offers the widest coverage and the least friction possible for a merchant. 100% of declined codes are covered using a fully embedded, real-time, and white-labeled solution. We take full liability for any transaction that is rescued by our service and settle merchants even if we have not recovered the funds from the customer, who is charged the transaction amount at no extra cost. The outcome: Up to +15% increase in revenues. On average, 30-50% of declined transactions are prevented by FlexCharge, leading to increased sales, decreased cost of acquisition, and longer lifetime customer values. The Team: A US Company with R&D based in Israel, FlexCharge brings together a highly experienced team representing the best of Quantitative Analytics, Risk Management, and Payments backgrounds to tackle declined payments and help your business sell more."
+						]
+					},
+					{ "key": "Industry", "oldValue": ["Fintech; Machine Learning; Payments; Risk Management"] },
+					{
+						"key": "id",
+						"oldValue": "01e0a938-b5a0-4c70-b9f4-1dbb3ade9fe6",
+						"newValue": "95d5c38b-d9db-4be4-9b8d-fcbcf0b6b1eb"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-23T00:00:00Z"], "newValue": ["2025-03-09T00:00:00Z"] },
+					{ "key": "Year_Founded", "oldValue": [2021] },
+					{ "key": "LinkedIn_URL", "oldValue": ["https://linkedin.com/company/flex-charge"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-23T00:00:00Z"],
+						"newValue": ["2025-03-09T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-09-25T00:00:00Z"],
+						"newValue": ["2025-02-25T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257323577704400, "newValue": 1826313871714943000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "hyperplane.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "f232f69a-55a2-4c19-9067-80cf87f77cac",
+						"newValue": "dfa4e930-5289-4ed4-ad6b-a0dd3ea228dc"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [24], "newValue": [4] },
+					{ "key": "Employees__Current_", "oldValue": [30], "newValue": [4] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [21], "newValue": [31] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [42.86] },
+					{ "key": "_version_", "oldValue": 1814257414478758000, "newValue": 1826314148779131000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "bestow.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Bestow uses data to remove doctor visits and paper work of traditional life insurance, offering you an affordable plan without the hassle."
+						],
+						"newValue": [
+							"Bestow partners with top life insurance carriers to deploy cutting-edge technology and data solutions that reduce costs, maximize efficiency, and drive growth by streamlining processes from origination and underwriting through administration."
+						]
+					},
+					{
+						"key": "Industry",
+						"oldValue": ["Fintech; Insurance; Financial Services; Insurtech; Software; Product Design"],
+						"newValue": [
+							"Fintech; Insurance; Financial Services; Insurtech; Software; Life Insurance; Product Design; Saas"
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "b65a0025-9eef-4ffb-a273-3cf40c91b950",
+						"newValue": "85331c95-7cca-4319-a3df-ceccb1ae6d71"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-30T00:00:00Z"], "newValue": ["2024-11-07T00:00:00Z"] },
+					{ "key": "Year_Founded", "oldValue": [2016], "newValue": [2017] },
+					{ "key": "Number_of_Employees", "oldValue": [182], "newValue": [177] },
+					{
+						"key": "LinkedIn_URL",
+						"oldValue": ["https://linkedin.com/company/bestowlife"],
+						"newValue": ["https://linkedin.com/company/bestow-insurance"]
+					},
+					{ "key": "Employees__Current_", "oldValue": [180], "newValue": [271] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [185], "newValue": [176] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-30T00:00:00Z"],
+						"newValue": ["2024-11-07T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-01-30T00:00:00Z"],
+						"newValue": ["2024-11-06T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257359888842800, "newValue": 1826313926812369000 },
+					{ "key": "Employees__Growth_YoY____", "newValue": [0.57] }
+				]
+			}
+		]
+	},
+	{
+		"url": "resistant.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Resistant AI protects lenders and other fintechs from document fraud. If you are part of a fraud, risk, operations, or compliance team in the fintech/finance industry, you can now improve your risk and fraud controls, by detecting fraudulent documents automatically, and without replacing your existing systems. Detect and prevent document fraud in: • KYB / Merchant Onboarding • KYC / Customer Onboarding • Digital Lending / Mortgage Underwriting • Tenant Screening • And more. Some stats: • 500+ detectors • Less than 30 sec to get results • 90% of manual reviews eliminated • 80% of documents approved instantly • 99% accuracy in document verdicts • 50M+ documents analyzed 100+ patents. 100+ customers, including Payoneer, Habito, Planet42, and ComplyAdvantage. Digital Crime Fighter of the Year. Twice Winner of ACAMS'PwC Hackathon. Backed by GV, Index Ventures, Credo Ventures, Seedcamp, and more."
+						],
+						"newValue": [
+							"Resistant AI protects lenders and other fintechs from document fraud. If you are part of a fraud, risk, operations, or compliance team in the fintech/finance industry, you can now improve your risk and fraud controls, by detecting fraudulent documents automatically, and without replacing your existing systems. Detect and prevent document fraud in: • Digital Lending / Mortgage Underwriting • KYC / Customer Onboarding • KYB / Merchant Onboarding • Tenant Screening • Employee Screening • And more Some stats: • 500+ detectors • Less than 20 sec to get results • 90% of manual reviews eliminated • 80% of documents approved instantly • 99% accuracy in document verdicts • 100M+ documents analyzed 100+ patents. Digital Crime Fighter of the Year. Twice Winner of ACAMS'PwC Hackathon. Backed by GV, Index Ventures, Credo Ventures, Seedcamp, and more."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "95cfb736-4662-47df-a878-bc8bc82b3340",
+						"newValue": "40e130b0-d2ab-4b84-b937-3e8d3816b7f8"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [94], "newValue": [99] },
+					{ "key": "Employees__Current_", "oldValue": [94], "newValue": [97] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [100], "newValue": [96] },
+					{ "key": "_version_", "oldValue": 1814257473472692200, "newValue": 1826314127481503700 },
+					{ "key": "Employees__Growth_YoY____", "newValue": [3.12] }
+				]
+			}
+		]
+	},
+	{
+		"url": "dynamofl.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"We develop privacy-preserving tools and techniques for enabling enterprise-grade Gen AI."
+						],
+						"newValue": ["DynamoFL is now Dynamo AI"]
+					},
+					{
+						"key": "id",
+						"oldValue": "734a6101-4c52-4f1d-be00-f0e9d801f152",
+						"newValue": "ba5e5cce-499b-442f-b774-ccc0239f3814"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [44], "newValue": [26] },
+					{
+						"key": "LinkedIn_URL",
+						"oldValue": ["https://linkedin.com/company/dynamofl"],
+						"newValue": ["https://linkedin.com/company/dynamoai"]
+					},
+					{ "key": "Employees__Current_", "oldValue": [44], "newValue": [26] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [25], "newValue": [17] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [76], "newValue": [53] },
+					{
+						"key": "First_Meeting",
+						"oldValue": ["2022-05-19T00:00:00Z"],
+						"newValue": ["2018-09-04T00:00:00Z"]
+					},
+					{
+						"key": "First_Email",
+						"oldValue": ["2022-05-17T00:00:00Z"],
+						"newValue": ["2018-08-30T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257352259403800, "newValue": 1826313927716241400 }
+				]
+			}
+		]
+	},
+	{
+		"url": "casaphq.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Casap is an award-winning dispute automation platform that streamlines compliance, reduces operational costs, and enhances consumer satisfaction by automating up to 30% of dispute cases. Trusted by fintechs and financial institutions to deliver fast, accurate, and compliant resolutions."
+						],
+						"newValue": [
+							"Casap's Copilot & Collaboration platform can fully automate disputes end-to-end. We empower institutions and fintechs to intelligently tackle first-party fraud while transforming disputes into an opportunity to build loyalty."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "6a180f53-fb80-44a5-97e8-d85f58018a04",
+						"newValue": "ea85bb58-f28d-45d5-ba5a-77a6ad5a2c3b"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-30T00:00:00Z"], "newValue": ["2025-02-28T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [6], "newValue": [8] },
+					{ "key": "Total_Funding_Amount__USD_", "oldValue": [103275], "newValue": [8500000] },
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [103275], "newValue": [8500000] },
+					{ "key": "Employees__Current_", "oldValue": [5], "newValue": [7] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [66.67], "newValue": [166.67] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-30T00:00:00Z"],
+						"newValue": ["2025-02-28T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257360049275000, "newValue": 1826313901732528000 },
+					{ "key": "Last_Funding_Date", "newValue": ["2024-10-29T00:00:00Z"] }
+				]
+			}
+		]
+	},
+	{
+		"url": "getwarmer.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Warmer"], "newValue": ["warmer"] },
+					{
+						"key": "Description",
+						"oldValue": ["relationships are everything"],
+						"newValue": ["Relationships are everything"]
+					},
+					{
+						"key": "id",
+						"oldValue": "b40bd144-ed53-46a4-b8b3-c6a57c07f836",
+						"newValue": "d2e6d6e5-eb16-4798-8394-cfa3ff524915"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-19T00:00:00Z"], "newValue": ["2025-01-16T00:00:00Z"] },
+					{ "key": "Employees__Current_", "oldValue": [6], "newValue": [7] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [2], "newValue": [3] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [200], "newValue": [133.33] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-19T00:00:00Z"],
+						"newValue": ["2025-01-16T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-09-12T00:00:00Z"],
+						"newValue": ["2024-12-04T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257364953464800, "newValue": 1826313889250279400 },
+					{ "key": "Industry", "newValue": ["Fintech"] },
+					{ "key": "Year_Founded", "newValue": [2024] }
+				]
+			}
+		]
+	},
+	{
+		"url": "altbank.com.br",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Launched in October 2018, alt.bank's mission is to bring financial justice through fair and transparent interest rates and aims to gain 30 million customers in Brazil and 60 million in Latin America. In July 2022, alt.bank launched novücard, a credit card for anyone who wants to be in responsible control of their finances. Since its Beta launch, novücard has strengthened its position as the country's fastest growing direct credit card issuer. The card has numerous exclusive benefits: - Dynamic credit: it is the first card in Brazil to offer a dynamic credit limit, which automatically increases from month to month as invoices are paid on time. - Cofrinhü: the money stored in Cofrinhü becomes a credit limit and yields 100% of the CDI. - Credit back: it is also the first card in Brazil in which the customer receives a R$ 1 increase in the limit back for every R$ 100 spent and paid on the invoice. - Local discounts: network of partners offering exclusive discounts for novücard customers. In the management of alt.bank and novücard are great professionals in their areas of activity in Latin America: - Brad Liebmann, Founder & CEO - https://www.linkedin.com/in/liebmann/ - Fabio Silva, COO -https://www.linkedin.com/in/fabiosilvaamin/ - Javier Mancilla, Head of Intelligent Systems (Machine Learning) -https://www.linkedin.com/in/mancillamontero/ - Gustavo Busnardo, CTO - https://www.linkedin.com/in/gustavobusnardo/ We serve our clients through more than 100 employees working from home or based in São Paulo/SP and São Carlos/SP. You can learn more about it at www.novucard.com.br."
+						],
+						"newValue": [
+							"Venha conhecer a única conta digital gratuita que te dá uma grana extra quando você convida seus amigos e amigas! Nosso aplicativo é pra todo mundo, com ou sem CPF restrito."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "9330b60e-1468-46b3-ba35-88f015d19c2d",
+						"newValue": "b498cc10-8daf-4163-b483-3cda3e4c63eb"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [141], "newValue": [142] },
+					{ "key": "Employees__Current_", "oldValue": [140], "newValue": [144] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [150], "newValue": [149] },
+					{ "key": "_version_", "oldValue": 1814258345658286000, "newValue": 1826314105063997400 }
+				]
+			}
+		]
+	},
+	{
+		"url": "dispatch.io",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "41f26d9f-d850-470b-aad7-e0c8df1bdc5b",
+						"newValue": "903461d5-2ccf-45d2-8b46-5eb9ea8ad1da"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-21T00:00:00Z"], "newValue": ["2024-11-07T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [16], "newValue": [23] },
+					{ "key": "Employees__Current_", "oldValue": [14], "newValue": [22] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [8], "newValue": [14] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [75], "newValue": [64.29] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-21T00:00:00Z"],
+						"newValue": ["2024-11-07T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257329006182400, "newValue": 1826313915629305900 }
+				]
+			}
+		]
+	},
+	{
+		"url": "acrerewards.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "b98c1db6-f815-4d64-981d-7cf17b80b739",
+						"newValue": "8d5e4e22-4e25-46c3-a7d6-fa9f25d7a757"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-27T00:00:00Z"], "newValue": ["2025-01-13T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2025-01-13T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257307241939000, "newValue": 1826313886437998600 }
+				]
+			}
+		]
+	},
+	{
+		"url": "bunch.capital",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"bunch OS makes investing in private markets easy, cost-efficient & fast - without compromising regulatory & tax compliance. It is a flexible & adaptable platform that works across legal structures, asset classes & jurisdictions to fully unlock private markets for everyone. Privacy Policy: https://www.bunch.capital/privacy-policy"
+						],
+						"newValue": [
+							"bunch is building the backbone of private markets with an end-to-end platform that enables funds and investors to operate, administer, and transact seamlessly. Designed with GPs at heart, bunch’s data-centric approach ensures GPs and LPs have access to accurate, up-to-date information in one centralized hub, fostering smarter, faster decision-making and transparent collaboration. Privacy Policy: https://www.bunch.capital/privacy-policy"
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "ab472d0c-9c90-4e11-8dbd-a74b3f26003d",
+						"newValue": "dfba7d7a-77da-436b-8bb2-3f4b4115781d"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [60], "newValue": [77] },
+					{ "key": "Employees__Current_", "oldValue": [56], "newValue": [74] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [37], "newValue": [52] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [51.35], "newValue": [48.08] },
+					{
+						"key": "First_Email",
+						"oldValue": ["2022-07-28T00:00:00Z"],
+						"newValue": ["2022-02-25T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257427548209200, "newValue": 1826314073225035800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "inpleo.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Inpleo, Inc. is a rapidly growing technology startup focused on revolutionizing enterprise software. Specializing in business intelligence, artificial intelligence, and data solutions, the company serves Fortune 250 and Fortune 500 clients. Inpleo's flagship product is an enterprise artificial intelligence-driven procurement platform, facilitating reverse auctions with robust controls and analytics. The platform offers custom implementations, live data analytics, and secure 256-bit encryption. Compatible with major databases, including Oracle, SAP, and IBM, Inpleo provides a complimentary data warehousing option. Additionally, the company undertakes design-build projects leveraging advanced artificial intelligence for areas such as financial risk management, asset management, logistical analyses, accounts payable modules, and other specified systems. Inpleo aims to shape the future of universal intelligence through a combination of client service, partnerships, and a vision for a data-powered software ecosystem."
+						],
+						"newValue": [
+							"Inpleo offers an enterprise artificial intelligence-driven procurement platform that helps match buyers and vendors in a reverse auction setting with numerous controls and analytics. Custom implementations are provided free of charge, and data analytics are provided live for customized metrics. Secured by 256-bit encryption and multi-level access, Inpleo offers a state-of-the-art system at a minimal financial footprint. Inpleo is currently compatible with most versions of Oracle, SAP, and IBM databases, and offers a complimentary data warehousing option for clients utilizing the procurement platform. Inpleo also offers a broad-range of design-build projects based on the advanced artificial intelligence machine, including financial risk management, asset management, logistical analyses, accounts payable modules, and other specified systems."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "c8a3a949-f9d8-4aa6-a09a-efc71101a238",
+						"newValue": "dd123c0f-bf91-4295-bf60-832345d4229d"
+					},
+					{ "key": "Year_Founded", "oldValue": [2014], "newValue": [2013] },
+					{ "key": "Number_of_Employees", "oldValue": [27], "newValue": [20] },
+					{ "key": "Employees__Current_", "oldValue": [28], "newValue": [21] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [20], "newValue": [23] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [40] },
+					{ "key": "_version_", "oldValue": 1814257505187922000, "newValue": 1826314120218017800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "teal.dev",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Industry",
+						"oldValue": ["Enterprise Software"],
+						"newValue": ["Enterprise Software; Payments; Fintech"]
+					},
+					{
+						"key": "id",
+						"oldValue": "16f9a73e-64e7-4a31-9154-51c1d0c5032f",
+						"newValue": "663e8b20-77ff-4911-90db-0b310453cf8c"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [11], "newValue": [2] },
+					{ "key": "Employees__Current_", "oldValue": [11], "newValue": [2] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [4], "newValue": [9] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [175] },
+					{ "key": "_version_", "oldValue": 1814257508683874300, "newValue": 1826314100124156000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "blackore.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Black Ore Technologies"], "newValue": ["Black Ore"] },
+					{
+						"key": "Description",
+						"oldValue": [
+							"Black Ore automates 1040 tax prep and gives CPAs back their time to focus on advising their clients and growing their practice."
+						],
+						"newValue": [
+							"Black Ore Augments CPAs with Superpowers. Our Tax Autopilot platform automates complex 1040 tax prep, transforming preparers to reviewers and reviewers to advisors. We give CPAs their time back to focus on efficiently growing their practice."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "9f11310b-c991-4439-9300-0f01142a7bbe",
+						"newValue": "1b7dbe8f-58b6-4e18-b9f5-19efc08ab7bc"
+					},
+					{ "key": "Year_Founded", "oldValue": [2022], "newValue": [2021] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [4], "newValue": [5] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [0] },
+					{ "key": "_version_", "oldValue": 1814257416578007000, "newValue": 1826314090195189800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "simpleclosure.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "c5ac4e87-be30-4f90-8374-aad789b818a1",
+						"newValue": "03f4387d-a3d5-4965-9cbf-cd97e1f41c63"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-28T00:00:00Z"], "newValue": ["2025-02-24T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [14], "newValue": [17] },
+					{ "key": "Employees__Current_", "oldValue": [13], "newValue": [17] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [4], "newValue": [8] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [225], "newValue": [112.5] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2025-02-26T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-10-28T00:00:00Z"],
+						"newValue": ["2025-02-26T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257292527272000, "newValue": 1826313873656905700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "avianlabs.net",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Industry",
+						"oldValue": ["Fintech; Payments; Software"],
+						"newValue": ["Fintech; Payments; Financial Services; Software"]
+					},
+					{
+						"key": "id",
+						"oldValue": "1972d619-c5f7-4205-9731-9f8a81050fdd",
+						"newValue": "95263b04-cd1d-4476-975a-9624eb2fd0ee"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-09-03T00:00:00Z"], "newValue": ["2025-03-06T00:00:00Z"] },
+					{
+						"key": "Source_of_Introduction__Full_Name_",
+						"oldValue": ["Aditya Nidmarti"],
+						"newValue": ["Bogdan Uzbekov"]
+					},
+					{
+						"key": "Source_of_Introduction__Email_",
+						"oldValue": ["anidmarti@bvp.com"],
+						"newValue": ["bogdan@getapron.com"]
+					},
+					{ "key": "Total_Funding_Amount__USD_", "oldValue": [20000000], "newValue": [15651900] },
+					{ "key": "Last_Funding_Date", "oldValue": ["2024-09-05T00:00:00Z"] },
+					{ "key": "Last_Funding_Amount__USD_", "oldValue": [15000000], "newValue": [15651900] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-09-03T00:00:00Z"],
+						"newValue": ["2025-03-06T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-06-12T00:00:00Z"],
+						"newValue": ["2025-01-31T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257383116898300, "newValue": 1826313872287465500 },
+					{ "key": "Number_of_Employees", "newValue": [3] },
+					{ "key": "Employees__Current_", "newValue": [3] },
+					{ "key": "Employees__12_Months_Ago", "newValue": [2] },
+					{ "key": "Employees__Growth_YoY____", "newValue": [50] }
+				]
+			}
+		]
+	},
+	{
+		"url": "tutored.live",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "a4b26ee9-9aed-4071-8547-ad9fd42b8274",
+						"newValue": "201254e1-5ddf-4aa9-9fef-573230bf9cac"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [290], "newValue": [302] },
+					{ "key": "Employees__Current_", "oldValue": [292], "newValue": [295] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [181], "newValue": [310] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [61.33] },
+					{ "key": "_version_", "oldValue": 1814257394326175700, "newValue": 1826314139740405800 }
+				]
+			}
+		]
+	},
+	{
+		"url": "withmoment.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "b56b2204-2cb0-48ed-8905-e7c3bafd7af5",
+						"newValue": "f855e496-321a-4912-907b-3f710bd9d025"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-03-11T00:00:00Z"], "newValue": ["2025-03-04T00:00:00Z"] },
+					{
+						"key": "Source_of_Introduction__Full_Name_",
+						"oldValue": ["Sachin Jain"],
+						"newValue": ["Claire Smilow"]
+					},
+					{
+						"key": "Source_of_Introduction__Email_",
+						"oldValue": ["sjain@bvp.com"],
+						"newValue": ["claire@boxgroup.com"]
+					},
+					{ "key": "Number_of_Employees", "oldValue": [29], "newValue": [39] },
+					{ "key": "Employees__Current_", "oldValue": [29], "newValue": [35] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [14], "newValue": [23] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [107.14], "newValue": [69.57] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-03-11T00:00:00Z"],
+						"newValue": ["2025-03-04T00:00:00Z"]
+					},
+					{
+						"key": "First_Email",
+						"oldValue": ["2022-01-31T00:00:00Z"],
+						"newValue": ["2023-07-11T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2022-02-08T00:00:00Z"],
+						"newValue": ["2024-12-10T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257475811016700, "newValue": 1826313874484232200 }
+				]
+			}
+		]
+	},
+	{
+		"url": "stuut.co",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Stuut Inc"], "newValue": ["Stuut"] },
+					{
+						"key": "Description",
+						"oldValue": [
+							"An AI system to help companies collect their cash, get paid and take the headaches out of finance. We're an engineering company that's hiring backed by some of the best investors: Khosla, Activant, 1984 and Page One"
+						],
+						"newValue": [
+							"The accounts receivable platform that does the only thing that matters—getting paid on time. Backed by some of the best investors: Khosla, Activant, 1984, Carya and Page One. Also, we are hiring!"
+						]
+					},
+					{
+						"key": "Industry",
+						"oldValue": ["Augmented Reality; Artificial Intelligence; Fintech; Tutoring"],
+						"newValue": ["Augmented Reality; Artificial Intelligence; Information Technology; Tutoring"]
+					},
+					{
+						"key": "id",
+						"oldValue": "c64df909-cc1b-41ae-a4d8-ee620c2b0bd3",
+						"newValue": "4fd02164-c530-4c25-a53a-dcba2eafffca"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-06T00:00:00Z"], "newValue": ["2025-03-03T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [10], "newValue": [12] },
+					{ "key": "Employees__Current_", "oldValue": [2], "newValue": [10] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [1], "newValue": [3] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [100], "newValue": [300] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-10-06T00:00:00Z"],
+						"newValue": ["2025-03-03T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257355701878800, "newValue": 1826313886922440700 },
+					{ "key": "Last_Funding_Date", "newValue": ["2024-11-19T00:00:00Z"] },
+					{ "key": "Last_Funding_Amount__USD_", "newValue": [5900000] }
+				]
+			}
+		]
+	},
+	{
+		"url": "hellorevv.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "5939c1b3-12e1-4efe-b86a-584607f5674d",
+						"newValue": "3b980b47-b91e-49df-923e-921b12910db4"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-10-23T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [17], "newValue": [1] },
+					{ "key": "Employees__Current_", "oldValue": [17], "newValue": [1] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [14], "newValue": [1] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [21], "newValue": [0] },
+					{ "key": "Last_Contact", "oldValue": ["2024-10-24T00:00:00Z"] },
+					{ "key": "First_Meeting", "oldValue": ["2020-10-15T00:00:00Z"] },
+					{ "key": "First_Email", "oldValue": ["2023-06-21T00:00:00Z"] },
+					{ "key": "Last_Meeting", "oldValue": ["2024-10-24T00:00:00Z"] },
+					{ "key": "_version_", "oldValue": 1814257320541028400, "newValue": 1826314090828529700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "spread.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"SPREAD's mission is to make product information easily accessible & actionable for everybody. Our Engineering Intelligence Network is a knowledge graph for systems engineering. We connect all kinds of product information to help engineering teams gain an objective understanding of ultra-complex systems like cars, aircraft, and machinery. With use cases from R&D to Aftersales, SPREAD's Engineering Intelligence Network is helping customers like Mercedes, Porsche, and VW accelerate development cycles, increase quality, eliminate millions in inefficiencies, and reduce their environmental footprint."
+						],
+						"newValue": [
+							"Berlin-based startup SPREAD is revolutionizing the development, production and maintenance of complex products in manufacturing companies with its agentic engineering intelligence software. In an era of increasingly connected products, SPREAD AI offers an AI-powered Product Twin software suite that helps engineers find, understand and apply product information faster. The platform acts as an intelligent integration layer for fragmented product data across systems and departments, making it easily accessible through intuitive apps and AI agents. The value-based SaaS licensing model enables customized solutions with rapid ROI. Customers benefit from up to 10x faster development times, up to 50% cost savings, and higher product quality: a potential savings of billions of dollars. The team's vision is to make smarter use of trillions of product data points and to make European manufacturing companies the global innovation leaders in applied AI."
+						]
+					},
+					{
+						"key": "Industry",
+						"oldValue": ["Artificial Intelligence; Enterprise Software; Simulation; Software"],
+						"newValue": ["Artificial Intelligence; Enterprise Software; Software"]
+					},
+					{
+						"key": "id",
+						"oldValue": "4157b411-445b-4777-82a3-a03ab7d44734",
+						"newValue": "afdf235e-8329-4cd0-b4b9-86657f5134b6"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-07-15T00:00:00Z"], "newValue": ["2024-11-26T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [104], "newValue": [111] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [66], "newValue": [85] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [59.09], "newValue": [30.59] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-07-15T00:00:00Z"],
+						"newValue": ["2024-11-26T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257410128216000, "newValue": 1826313927003209700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "getmymuse.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Muse Finance enables B2B businesses to provide working capital finance to their clients to keep them on-platform, increase engagement and increase the overall experience. We are a no-code and low-code option that allows you to brand the financing in your name and get up and running within a week. Muse Finance has a real-time dashboard so that you can manage client funding requests and track their progress. Our tech pack gives true credit insights and instant credit decisions. We are the only company that provides factoring finance with a direct link to Allianz trade credit insurance, allowing you and your customers to have peace of mind regarding the credit quality of their clients and the ability to get paid. Muse Finance offers two working capital finance products: buy now, pay later for businesses and invoice finance for UK limited companies. Contact us for more information."
+						],
+						"newValue": [
+							"Muse connects to the leading accounting software systems to generate real-time visualisations of that data. Our technology connects into cloud accounting software to provide free 30-day cash flow forecasts as well as a single view of all of business bank accounts and credit cards. As a result, business owners can more easily understand their financial situation and are empowered to make informed decisions. What’s more, the intelligence in the Muse app enables real-time analysis of invoices issued to uncover potential short-term cash flow gaps, highlighting invoices which could be used as an asset to bridge those gaps. Designed by small business entrepreneurs, Muse inherently understands the need to minimise administration, maximising the time you have available to get on with what you love, whilst maintaining financial control of your business. Muse participated in the 2020 cohort of Barclays’ Fintech Accelerator, powered by Techstars, and is headquartered in London."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "2848b985-6ace-4577-8021-a13cb9fc1f45",
+						"newValue": "b7d75dc2-562e-462b-bd7c-eb87876aa40c"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [8], "newValue": [7] },
+					{ "key": "Employees__Current_", "oldValue": [8], "newValue": [7] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [10], "newValue": [8] },
+					{ "key": "_version_", "oldValue": 1814257328096018400, "newValue": 1826313927318831000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "xaver.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Stealth Fintech. Imagine a platform that seamlessly blends technology with your financial needs, creating an experience that's not just efficient but truly delightful. Stay tuned. We can't wait to unveil what's next in the world of fintech."
+						],
+						"newValue": [
+							"Xaver is a leading B2B FinTech providing an end-to-end solution for financial advisory, addressing both the sales process and product offering. Leveraging a Multichannel Sales Platform, Xaver significantly enhances the sales process and increases its efficiency by up to 65% while elevating the customer experience with a seamless omnichannel journey. Efficiency gains are derived from our proprietary Agentic AI Platform, where AI agents autonomously manage tasks, streamline operations, and enhance the quality of financial advising. Xaver’s efficient white-labeled asset manager enables partners to create or extend their existing financial product offerings, helping them remain competitive and attract existing and new customers. Xaver relies on a team of seasoned former executives - Max Bachem, Ole Breulmann, Dr. Björn Holste, and Nigel Jankelson - from the financial industry, bringing together deep AI expertise, entrepreneurial acumen, and firsthand insights into industry challenges. Xaver is backed by top-tier venture capitalists and a prominent group of former financial institution executives, fintech pioneers, and unicorn founders, including former C-level executives from the banking and insurance sectors."
+						]
+					},
+					{
+						"key": "Industry",
+						"oldValue": ["Sales; B2B; Insurtech; Fintech; Wealth Management"],
+						"newValue": ["Sales; Insurtech; Fintech; Wealth Management"]
+					},
+					{
+						"key": "id",
+						"oldValue": "55b971af-5e81-4946-a75d-51b0372e74f8",
+						"newValue": "0f2a2a55-fffa-4c4f-89c5-af7bee4dc3ec"
+					},
+					{ "key": "Last_Email", "oldValue": ["2023-12-08T00:00:00Z"], "newValue": ["2025-02-27T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [22], "newValue": [23] },
+					{ "key": "Employees__Current_", "oldValue": [21], "newValue": [23] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [4], "newValue": [14] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [425], "newValue": [64.29] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2023-12-08T00:00:00Z"],
+						"newValue": ["2025-02-27T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257513597501400, "newValue": 1826313892026908700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "vitessepsp.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Vitesse"], "newValue": ["Vitesse PSP"] },
+					{
+						"key": "id",
+						"oldValue": "65f795b7-4859-4cb7-a9c8-3f1cb7bc1618",
+						"newValue": "c8e859b7-7f3b-4e39-82ae-d4a644aef257"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [180], "newValue": [203] },
+					{ "key": "Employees__Current_", "oldValue": [180], "newValue": [204] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [138], "newValue": [156] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [30.43], "newValue": [30.13] },
+					{ "key": "_version_", "oldValue": 1814257480672215000, "newValue": 1826314118549733400 }
+				]
+			}
+		]
+	},
+	{
+		"url": "clevercards.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "686c6220-6c18-4701-855a-2b09e32b2589",
+						"newValue": "2a260107-22b2-4233-9539-f0546983c21d"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [47], "newValue": [48] },
+					{ "key": "Employees__Current_", "oldValue": [48], "newValue": [50] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [37], "newValue": [53] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [29.73] },
+					{ "key": "_version_", "oldValue": 1814257511667073000, "newValue": 1826314129749573600 }
+				]
+			}
+		]
+	},
+	{
+		"url": "superpayments.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{ "key": "Name", "oldValue": ["Super Payments"], "newValue": ["Super"] },
+					{
+						"key": "id",
+						"oldValue": "de90b63b-d5cc-4bb0-a507-266e427d3189",
+						"newValue": "7e324c5a-3be6-46eb-85d0-54de081ba245"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [49], "newValue": [43] },
+					{ "key": "Employees__Current_", "oldValue": [51], "newValue": [45] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [46], "newValue": [56] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [10.87] },
+					{ "key": "_version_", "oldValue": 1814257513736962000, "newValue": 1826314074111082500 }
+				]
+			}
+		]
+	},
+	{
+		"url": "checkmate.ai",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"We are on a mission to put an end to Authorized Push Payment Fraud (scams). Banks have put incalculable resources into their defenses to safeguard their customers’ money. Yet, cybercriminals have realized that to rob a bank they don't have to break in, the banks’ customers will (unwittingly) open the front door for them. Utilizing a mix of real-time payment methods, phone/email spoofing and Generative AI, cybercriminals are targeting the banks’ customers instead of their accounts, sidestepping the banks’ defenses, leaving their customers completely exposed. This problem is growing at an unprecedented rate around the globe, causing massive financial losses and human suffering. CheckMate has developed a state-of-the-art solution for APP Fraud allowing our partner financial institutions to keep their customers safe."
+						],
+						"newValue": ["COMING SOON"]
+					},
+					{
+						"key": "Industry",
+						"oldValue": ["Fintech; Financial Services"],
+						"newValue": ["Fintech; Analytics; Financial Services"]
+					},
+					{
+						"key": "id",
+						"oldValue": "cb142ede-d0cb-48b1-9c6c-5155497f9341",
+						"newValue": "e5d29b83-3502-41e8-8a3f-0b662c77ffaa"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [8], "newValue": [6] },
+					{ "key": "Employees__Current_", "oldValue": [9], "newValue": [8] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [4], "newValue": [7] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [125] },
+					{ "key": "_version_", "oldValue": 1814257504700334000, "newValue": 1826314103118889000 },
+					{ "key": "Total_Funding_Amount__USD_", "newValue": [172125] },
+					{ "key": "Last_Funding_Amount__USD_", "newValue": [172125] }
+				]
+			}
+		]
+	},
+	{
+		"url": "getmcard.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "035fdce3-5638-499e-bc23-d877127e3ca6",
+						"newValue": "c9951293-0b46-44f0-acbc-6f58ecdedc61"
+					},
+					{ "key": "Last_Email", "oldValue": ["2024-06-20T00:00:00Z"], "newValue": ["2025-03-05T00:00:00Z"] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-06-20T00:00:00Z"],
+						"newValue": ["2025-03-05T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257417168355300, "newValue": 1826313875291635700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "invent.us",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "ea0094d3-3a7b-4be5-8d91-c0e3866ec223",
+						"newValue": "a90d1896-f5c9-4f42-bdbf-ee6414574c70"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [79], "newValue": [82] },
+					{ "key": "Employees__Current_", "oldValue": [79], "newValue": [80] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [85], "newValue": [78] },
+					{ "key": "_version_", "oldValue": 1814257416795062300, "newValue": 1826314128655908900 },
+					{ "key": "Employees__Growth_YoY____", "newValue": [5.13] }
+				]
+			}
+		]
+	},
+	{
+		"url": "floattechnologies.io",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "b427072b-0c90-4977-b7db-e150d3090140",
+						"newValue": "f752b669-7b70-4b61-9cbc-b52013ff96b9"
+					},
+					{ "key": "_version_", "oldValue": 1814257522352062500, "newValue": 1826314115608477700 }
+				]
+			}
+		]
+	},
+	{
+		"url": "photoncommerce.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "6f1c42ea-230d-4b19-9b3f-4d37860287d8",
+						"newValue": "199bd158-07e1-40ec-98b1-4a72165dd3a9"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [17], "newValue": [14] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [6.25] },
+					{ "key": "_version_", "oldValue": 1814257476280778800, "newValue": 1826314128168321000 }
+				]
+			}
+		]
+	},
+	{
+		"url": "relayfi.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Relay is a no-fee, online business banking and money management platform to understand precisely what your business is earning, spending and saving. Bank with Relay for: ✅ No fees or minimum balances that tie up cash flow ✅ Up to 20 checking accounts to organize income and expenses ✅ Spending management using 50 physical or virtual debit cards ✅ Payments and deposits via ACH transfers, checks and wires ✅ Secure, role-based access to team members and financial advisors ✅ Personalized customer support by email, phone or chat - Relay is a financial technology company, not an FDIC-insured bank. Banking services and FDIC insurance are provided through Thread Bank; Member FDIC. The Relay Visa® Debit Card is issued by Thread Bank pursuant to a license from Visa U.S.A. Inc. and may be used everywhere Visa® debit cards are accepted."
+						],
+						"newValue": [
+							"Small business banking and money management tools to put you in complete control of what your business is earning, spending and saving. The official banking platform of Profit First. Bank with Relay for: ✅ No fees or minimum balances that tie up cash flow ✅ Up to 20 checking accounts to organize income and expenses ✅ Spending management using 50 physical or virtual debit cards ✅ Payments and deposits via ACH transfers, checks and wires ✅ Secure, role-based access to team members and financial advisors ✅ Personalized customer support by email, phone or chat - Relay is a financial technology company, not a bank. Banking services and FDIC insurance are provided through Thread Bank; Member FDIC. The Relay Visa® Debit Card is issued by Thread Bank pursuant to a license from Visa U.S.A. Inc. and may be used everywhere Visa® debit cards are accepted."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "8caaac04-7b6e-4604-995a-d7f1abc144fd",
+						"newValue": "502c3541-e547-4c0c-889b-89f89762c093"
+					},
+					{ "key": "Last_Email", "oldValue": ["2023-12-05T00:00:00Z"], "newValue": ["2025-01-09T00:00:00Z"] },
+					{ "key": "Number_of_Employees", "oldValue": [185], "newValue": [195] },
+					{ "key": "Employees__Current_", "oldValue": [168], "newValue": [191] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [115], "newValue": [139] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [46.09], "newValue": [40.29] },
+					{
+						"key": "Last_Contact",
+						"oldValue": ["2024-01-23T00:00:00Z"],
+						"newValue": ["2025-01-23T00:00:00Z"]
+					},
+					{
+						"key": "Last_Meeting",
+						"oldValue": ["2024-01-23T00:00:00Z"],
+						"newValue": ["2025-01-23T00:00:00Z"]
+					},
+					{ "key": "_version_", "oldValue": 1814257513962406000, "newValue": 1826313900267667500 }
+				]
+			}
+		]
+	},
+	{
+		"url": "refundid.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "Description",
+						"oldValue": [
+							"Refundid is on a mission to deliver the best refund experience for both retailers and customers. Now partnered with over 150+ retailers, including Adore Beauty, Princess Polly, PE Nation, DISSH, and Culture Kings, Refundid supports customers by fronting their refund within seconds of lodging their return online, at no risk to the retailer – It’s a win-win! For retailers, Refundid is a powerful conversion tool, a time and cost-saving solution and the most effective way to improve customer confidence and loyalty. Above all, it turns one of your customers’ major pain points into an opportunity to create incremental value. For customers, Refundid lets you access your refund instantly, before you’ve even sent back your return, at zero cost. It acts as a badge of trust, giving you the confidence to shop online."
+						],
+						"newValue": [
+							"Now partnered with over 200+ retailers across Australia, USA, and New Zealand, including brands such as Country Road Group, Adore Beauty, Princess Polly, PE Nation, DISSH, and Culture Kings. Refundid helps these retailers service their customers by giving them a range of return options. This includes the revolutionary instant refund, where Refundid fronts their refund within seconds of lodging their return online, at no risk to the retailer – It’s a win-win! For retailers, first and foremost, Refundid provides data and analytics to help reduce return rates. We have shifted what was once considered the 'necessary evil' into a strategy that helps retain more customers and acquire new ones. By providing automation and visibility to their customers, retailers can reduce their customer service inquiries and create efficiencies across warehousing teams. We are turning a pain point into an opportunity to create incremental value. With over 76% of customers looking at a returns policy before purchasing, Refundid has become a trust badge for customers, giving them the confidence to shop online, knowing that their post-purchase experience will be stress-free."
+						]
+					},
+					{
+						"key": "id",
+						"oldValue": "f43ff585-e1d9-4810-853e-f0f285ed6602",
+						"newValue": "b16f68fe-0ba7-49df-9f38-012a8979b2d7"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [16], "newValue": [13] },
+					{ "key": "Employees__Current_", "oldValue": [17], "newValue": [13] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [19], "newValue": [23] },
+					{ "key": "_version_", "oldValue": 1814257514077749200, "newValue": 1826314156820660200 }
+				]
+			}
+		]
+	},
+	{
+		"url": "velluminsurance.com",
+		"changes": [
+			{
+				"affinity_metadata": [
+					{
+						"key": "id",
+						"oldValue": "7999f51e-3afa-4a3b-b56c-46f5a82236c9",
+						"newValue": "f2ebb1f0-9818-4d16-b63f-ca15b3a23bfd"
+					},
+					{ "key": "Number_of_Employees", "oldValue": [12], "newValue": [14] },
+					{ "key": "Employees__Current_", "oldValue": [12], "newValue": [13] },
+					{ "key": "Employees__12_Months_Ago", "oldValue": [5], "newValue": [9] },
+					{ "key": "Employees__Growth_YoY____", "oldValue": [140], "newValue": [55.56] },
+					{ "key": "_version_", "oldValue": 1814257527062265900, "newValue": 1826314100456554500 }
+				]
+			}
+		]
+	}
+]
