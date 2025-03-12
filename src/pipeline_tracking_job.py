@@ -19,7 +19,6 @@ def get_updates_from_user(recipient_email: str, page: int = 1, limit: int = 20) 
 
 
 def get_user_rules(recipient_email: str) -> Dict:
-    """Obtém as regras do usuário a partir da API."""
     response_rules = requests.get(
         "https://automata.bessemer.io/api/rules", params={"email": recipient_email})
     rules_data = response_rules.json().get("rules")
@@ -33,7 +32,6 @@ def get_user_rules(recipient_email: str) -> Dict:
 
 
 def get_all_companies_updates(recipient_email: str) -> List:
-    """Obtém todas as atualizações do usuário percorrendo a paginação."""
     totalUpdatesFromUser = []
 
     first_page_response = get_updates_from_user(recipient_email, 1)
@@ -56,9 +54,7 @@ def get_all_companies_updates(recipient_email: str) -> List:
 
 
 def filter_updates_by_rules(updates: List, rules: Dict) -> List:
-    """Filtra as atualizações com base nas regras definidas pelo usuário."""
     filtered_updates = []
- # Headcount Growth
     growth_months = 12
     growth_months = int(rules["headcountGrowthMonths"])
     web_traffic_growth_months = int(rules["webTrafficGrowthMonths"])
@@ -92,7 +88,6 @@ def filter_updates_by_rules(updates: List, rules: Dict) -> List:
         for change in company_data_changes:
             affinity_data = change.get("affinity_metadata", [])
             specter_data = change.get("specter", [])
-            # Process affinity data
             for metadata in affinity_data:
                 key = metadata.get("key")
 
@@ -127,7 +122,6 @@ def filter_updates_by_rules(updates: List, rules: Dict) -> List:
                         return False
 
                     if growth_months < 12:
-                        # Check growth from 1 month up to growth_months
                         for month in range(1, growth_months + 1):
                             if month == 1:
                                 check_key = "Employees_-_Monthly_Growth"
@@ -140,11 +134,9 @@ def filter_updates_by_rules(updates: List, rules: Dict) -> List:
                                 growth_rate = calculate_growth_rate(
                                     key, old_value, new_value)
 
-                                # If growth detected, update and break the loop
                                 if update_headcount_growth(old_value, new_value, growth_rate, key):
                                     break
                     else:
-                        # For 12 months, check the yearly growth fields
                         if key in ["Employees__12_Months_Ago", "Employees__Growth_YoY____"]:
                             old_value = metadata.get("oldValue", [0])[0]
                             new_value = metadata.get("newValue", [0])[0]
@@ -194,7 +186,6 @@ def filter_updates_by_rules(updates: List, rules: Dict) -> List:
                                 growth_rate = calculate_growth_rate(
                                     key, old_value, new_value)
 
-                                # If growth detected, update and break the loop
                                 if update_web_traffic_growth(old_value, new_value, growth_rate, key):
                                     break
                     else:
@@ -207,26 +198,11 @@ def filter_updates_by_rules(updates: List, rules: Dict) -> List:
                             update_web_traffic_growth(
                                 old_value, new_value, growth_rate, key)
 
-        # Move this check outside the inner loops to evaluate after processing all metadata
         if any([company_changes["headcount_growth"]["changed"],
                 company_changes["web_traffic_growth"]["changed"]]):
             filtered_updates.append(company_changes)
 
     return filtered_updates
-
-
-# def get_pipeline_tracking_data(recipient_email: str) -> Dict:
-#     """Função principal que coordena o fluxo de obtenção e filtragem de dados."""
-#     # Obter regras do usuário
-#     rules = get_user_rules(recipient_email)
-
-#     # Obter todas as atualizações do usuário
-#     all_updates = get_all_companies_updates(recipient_email)
-
-#     # Filtrar atualizações com base nas regras
-#     filtered_updates = filter_updates_by_rules(all_updates, rules)
-
-#     return {"updates": filtered_updates}
 
 
 def send_email(email: str, html: str) -> None:
@@ -331,24 +307,3 @@ def create_email_template(updates: list) -> str:
     """
 
     return html
-
-
-# def run_pipeline_tracking_job(recipient_email: str, edition_number: int = 1) -> None:
-#     try:
-#         # Get update data
-#         tracking_data = get_pipeline_tracking_data(recipient_email)
-#         updates = tracking_data.get("updates", [])
-
-#         # Create email template
-#         # html_content = create_email_template(updates)
-
-#         # # Send email
-#         # if updates:
-#         #     send_email(recipient_email, html_content, edition_number)
-#         #     print(
-#         #         f"Email sent to {recipient_email} with {len(updates)} updates")
-#         # else:
-#         #     print(f"No updates found for {recipient_email}")
-
-#     except Exception as e:
-#         print(f"Error running tracking job: {e}")
