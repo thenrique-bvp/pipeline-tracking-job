@@ -173,7 +173,6 @@ def filter_updates_by_rules(updates: List, rules: Dict) -> List:
                         return False
 
                     if web_traffic_growth_months < 12:
-                        # Check growth from 1 month up to growth_months
                         for month in range(1, growth_months + 1):
                             if month == 1:
                                 check_key = "Web_Visits_-_Monthly_Growth"
@@ -189,7 +188,6 @@ def filter_updates_by_rules(updates: List, rules: Dict) -> List:
                                 if update_web_traffic_growth(old_value, new_value, growth_rate, key):
                                     break
                     else:
-                        # For 12 months, check the yearly growth fields
                         if key in ["Web_Visits__12_Months_Ago", "Web_Visits__Growth_YoY____"]:
                             old_value = metadata.get("oldValue", [0])[0]
                             new_value = metadata.get("newValue", [0])[0]
